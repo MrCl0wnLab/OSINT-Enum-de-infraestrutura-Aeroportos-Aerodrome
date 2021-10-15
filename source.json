@@ -1,0 +1,4334 @@
+{
+    "status": true,
+    "message": "",
+    "data": [
+        [
+            "EPSN",
+            "SWIDWIN",
+            "53.7906",
+            "15.8281",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para EPSN\n\nTAF n\u00e3o dispon\u00edvel para EPSN"
+        ],
+        [
+            "MGRT",
+            "RETALHULEU",
+            "14.5208",
+            "-91.6972",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para MGRT\n\nTAF n\u00e3o dispon\u00edvel para MGRT"
+        ],
+        [
+            "OPTU",
+            "TURBAT INTERNATIONAL",
+            "25.9861",
+            "63.03",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para OPTU\n\nTAF n\u00e3o dispon\u00edvel para OPTU"
+        ],
+        [
+            "SAAC",
+            "COMODORO PIERRESTEGUI",
+            "-31.2969",
+            "-57.9964",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAC\n\nTAF n\u00e3o dispon\u00edvel para SAAC"
+        ],
+        [
+            "SAAG",
+            "GUALEGUAYCHU",
+            "-33.0058",
+            "-58.6131",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAG\n\nTAF n\u00e3o dispon\u00edvel para SAAG"
+        ],
+        [
+            "SAAI",
+            "PUNTA INDIO",
+            "-35.3478",
+            "-57.2939",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAI\n\nTAF n\u00e3o dispon\u00edvel para SAAI"
+        ],
+        [
+            "SAAJ",
+            "JUNIN",
+            "-34.5458",
+            "-60.9306",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAJ\n\nTAF n\u00e3o dispon\u00edvel para SAAJ"
+        ],
+        [
+            "SAAP",
+            "GENERAL URQUIZA",
+            "-31.7947",
+            "-60.4803",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAP\n\nTAF n\u00e3o dispon\u00edvel para SAAP"
+        ],
+        [
+            "SAAR",
+            "ROSARIO",
+            "-32.9033",
+            "-60.7844",
+            "g",
+            "METAR SAAR 280500Z 05005KT CAVOK 08\/03 Q1019=\n\nTAF SAAR 272300Z 2800\/2824 02010KT CAVOK TN05\/2811Z TX23\/2818Z="
+        ],
+        [
+            "SAAV",
+            "SAUCE VIEJO",
+            "-31.7117",
+            "-60.8117",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAAV\n\nTAF n\u00e3o dispon\u00edvel para SAAV"
+        ],
+        [
+            "SABE",
+            "AEROPARQUE JORGE NEWBERY",
+            "-34.5592",
+            "-58.4156",
+            "g",
+            "METAR COR SABE 280500Z 08007KT CAVOK 12\/06 Q1022=\n\nTAF SABE 272300Z 2800\/2824 09010KT CAVOK TN09\/2811Z TX16\/2818Z \nBECMG 2809\/2811 02010KT="
+        ],
+        [
+            "SACC",
+            "LA CUMBRE",
+            "-31.0067",
+            "-64.5325",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SACC\n\nTAF n\u00e3o dispon\u00edvel para SACC"
+        ],
+        [
+            "SACO",
+            "AMBROSIO L V TARAVELLA",
+            "-31.3236",
+            "-64.2078",
+            "g",
+            "METAR COR SACO 280500Z 02007KT CAVOK 10\/01 Q1017=\n\nTAF SACO 272300Z 2800\/2824 02010KT CAVOK TN05\/2810Z TX25\/2818Z="
+        ],
+        [
+            "SACT",
+            "CHAMICAL",
+            "-30.3453",
+            "-66.2936",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SACT\n\nTAF n\u00e3o dispon\u00edvel para SACT"
+        ],
+        [
+            "SADD",
+            "DON TORCUATO",
+            "-34.5006",
+            "-58.6042",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADD\n\nTAF n\u00e3o dispon\u00edvel para SADD"
+        ],
+        [
+            "SADF",
+            "SAN FERNANDO",
+            "-34.4531",
+            "-58.5894",
+            "g",
+            "METAR SADF 280500Z 07007KT CAVOK 11\/06 Q1021=\n\nTAF SADF 272300Z 2800\/2824 07005KT CAVOK TN06\/2810Z TX20\/2818Z \nBECMG 2812\/2814 36010KT="
+        ],
+        [
+            "SADJ",
+            "MARIANO MORENO",
+            "-34.5606",
+            "-58.7894",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADJ\n\nTAF n\u00e3o dispon\u00edvel para SADJ"
+        ],
+        [
+            "SADL",
+            "LA PLATA",
+            "-34.9722",
+            "-57.8944",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADL\n\nTAF n\u00e3o dispon\u00edvel para SADL"
+        ],
+        [
+            "SADM",
+            "MORON",
+            "-34.6761",
+            "-58.6425",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADM\n\nTAF n\u00e3o dispon\u00edvel para SADM"
+        ],
+        [
+            "SADP",
+            "EL PALOMAR",
+            "-34.6097",
+            "-58.6125",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADP\n\nTAF n\u00e3o dispon\u00edvel para SADP"
+        ],
+        [
+            "SADS",
+            "AEROCLUB ARGENTINO",
+            "-34.7314",
+            "-58.5994",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SADS\n\nTAF n\u00e3o dispon\u00edvel para SADS"
+        ],
+        [
+            "SAHC",
+            "CHOS MALAL",
+            "-37.4444",
+            "-70.2222",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAHC\n\nTAF n\u00e3o dispon\u00edvel para SAHC"
+        ],
+        [
+            "SAHR",
+            "GENERAL ROCA",
+            "-39.0006",
+            "-67.6203",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAHR\n\nTAF n\u00e3o dispon\u00edvel para SAHR"
+        ],
+        [
+            "SAME",
+            "EL PLUMERILLO",
+            "-32.8317",
+            "-68.7928",
+            "g",
+            "METAR SAME 280500Z 32003KT CAVOK 08\/M04 Q1014=\n\nTAF SAME 272300Z 2800\/2824 05005KT CAVOK TN05\/2811Z TX23\/2820Z \nBECMG 2803\/2804 18003KT \nBECMG 2812\/2813 16010KT \nBECMG 2822\/2823 VRB03KT="
+        ],
+        [
+            "SAMM",
+            "MALARGUE",
+            "-35.4839",
+            "-69.5825",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAMM\n\nTAF n\u00e3o dispon\u00edvel para SAMM"
+        ],
+        [
+            "SAMQ",
+            "MENDOZA AEROPARQUE",
+            "-32.8658",
+            "-68.8722",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAMQ\n\nTAF n\u00e3o dispon\u00edvel para SAMQ"
+        ],
+        [
+            "SAMR",
+            "SAN RAFAEL",
+            "-34.5881",
+            "-68.4025",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAMR\n\nTAF SAMR 270500Z 2706\/2806 23005KT CAVOK TX18\/2720Z TN02\/2711Z \nBECMG 2702\/2704 14005KT \nBECMG 2714\/2716 05010KT="
+        ],
+        [
+            "SANC",
+            "CATAMARCA",
+            "-28.5956",
+            "-65.7517",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANC\n\nTAF n\u00e3o dispon\u00edvel para SANC"
+        ],
+        [
+            "SANE",
+            "SANTIAGO DEL ESTERO",
+            "-27.7656",
+            "-64.31",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANE\n\nTAF n\u00e3o dispon\u00edvel para SANE"
+        ],
+        [
+            "SANI",
+            "TINOGASTA",
+            "-28.0375",
+            "-67.5803",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANI\n\nTAF n\u00e3o dispon\u00edvel para SANI"
+        ],
+        [
+            "SANL",
+            "LA RIOJA",
+            "-29.3814",
+            "-66.7958",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANL\n\nTAF n\u00e3o dispon\u00edvel para SANL"
+        ],
+        [
+            "SANO",
+            "CHILECITO",
+            "-29.2239",
+            "-67.4389",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANO\n\nTAF n\u00e3o dispon\u00edvel para SANO"
+        ],
+        [
+            "SANT",
+            "TENIENTE BENJAMIN MATIENZO",
+            "-26.8408",
+            "-65.1047",
+            "g",
+            "METAR COR SANT 280500Z 36006KT 8000 NSC 11\/04 Q1015=\n\nTAF SANT 272300Z 2800\/2824 09010KT 7000 NSC TN07\/2810Z TX28\/2818Z \nBECMG 2802\/2805 36005KT="
+        ],
+        [
+            "SANU",
+            "SAN JUAN",
+            "-31.5714",
+            "-68.4181",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SANU\n\nTAF SANU 270500Z 2706\/2806 14010KT CAVOK TX19\/2720Z TN04\/2711Z \nBECMG 2716\/2718 23005KT="
+        ],
+        [
+            "SAOC",
+            "RIO CUARTO AREA DE MATERIAL",
+            "-33.0856",
+            "-64.2614",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOC\n\nTAF SAOC 272300Z 2800\/2824 02015KT CAVOK TN04\/2810Z TX25\/2818Z \nBECMG 2814\/2816 09010KT="
+        ],
+        [
+            "SAOD",
+            "VILLA DOLORES",
+            "-31.9411",
+            "-65.1422",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOD\n\nTAF n\u00e3o dispon\u00edvel para SAOD"
+        ],
+        [
+            "SAOL",
+            "LABOULAYE",
+            "-34.1353",
+            "-63.3622",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOL\n\nTAF n\u00e3o dispon\u00edvel para SAOL"
+        ],
+        [
+            "SAOM",
+            "MARCOS JUAREZ",
+            "-32.6836",
+            "-62.1578",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOM\n\nTAF n\u00e3o dispon\u00edvel para SAOM"
+        ],
+        [
+            "SAOR",
+            "VILLA REYNOLDS",
+            "-33.7297",
+            "-65.3872",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOR\n\nTAF n\u00e3o dispon\u00edvel para SAOR"
+        ],
+        [
+            "SAOU",
+            "SAN LUIS",
+            "-33.2731",
+            "-66.3564",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAOU\n\nTAF SAOU 270500Z 2706\/2806 36010KT CAVOK TX21\/2718Z TN06\/2709Z \nBECMG 2702\/2704 05010KT \nBECMG 2712\/2714 36015KT="
+        ],
+        [
+            "SARC",
+            "CORRIENTES",
+            "-27.4453",
+            "-58.7617",
+            "g",
+            "METAR COR SARC 280500Z 09008KT CAVOK 13\/07 Q1018=\n\nTAF SARC 272300Z 2800\/2824 09005KT CAVOK TN08\/2810Z TX27\/2819Z \nPROB30 2808\/2812 5000 BR NSC="
+        ],
+        [
+            "SARE",
+            "RESISTENCIA",
+            "-27.4497",
+            "-59.0561",
+            "g",
+            "METAR COR SARE 280500Z 08009KT CAVOK 15\/07 Q1018=\n\nTAF SARE 272300Z 2800\/2824 09005KT CAVOK TN08\/2810Z TX28\/2819Z \nPROB30 2808\/2812 5000 BR NSC="
+        ],
+        [
+            "SARF",
+            "FORMOSA",
+            "-26.2125",
+            "-58.2281",
+            "g",
+            "METAR COR SARF 280500Z 14004KT CAVOK 13\/10 Q1017=\n\nTAF SARF 272300Z 2800\/2824 11005KT CAVOK TN10\/2810Z TX27\/2819Z \nPROB30 2808\/2812 5000 BR NSC="
+        ],
+        [
+            "SARI",
+            "CATARATAS DEL IGUAZU",
+            "-25.7375",
+            "-54.4731",
+            "gw",
+            "METAR COR SARI 280400Z 00000KT CAVOK 14\/13 Q1019=\n\nTAF SARI 272300Z 2800\/2824 05005KT CAVOK TN10\/2810Z TX25\/2819Z \nBECMG 2805\/2807 5000 BR NSC \nPROB40 2807\/2811 0800 BCFG NSC \nBECMG 2812\/2813 CAVOK="
+        ],
+        [
+            "SARL",
+            "PASO DE LOS LIBRES",
+            "-29.6892",
+            "-57.1519",
+            "g",
+            "METAR COR SARL 280500Z 09009KT CAVOK 11\/06 Q1020=\n\nTAF n\u00e3o dispon\u00edvel para SARL"
+        ],
+        [
+            "SARM",
+            "MONTE CASEROS",
+            "-30.2717",
+            "-57.64",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SARM\n\nTAF n\u00e3o dispon\u00edvel para SARM"
+        ],
+        [
+            "SARP",
+            "POSADAS",
+            "-27.3858",
+            "-55.9706",
+            "g",
+            "METAR COR SARP 280500Z 09004KT CAVOK 14\/09 Q1019=\n\nTAF SARP 272300Z 2800\/2824 09010KT CAVOK TN11\/2810Z TX28\/2819Z \nPROB30 2808\/2812 5000 BR NSC="
+        ],
+        [
+            "SARS",
+            "TERMAL",
+            "-26.7564",
+            "-60.4931",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SARS\n\nTAF n\u00e3o dispon\u00edvel para SARS"
+        ],
+        [
+            "SASA",
+            "SALTA",
+            "-24.8558",
+            "-65.4861",
+            "g",
+            "METAR COR SASA 280500Z 00000KT CAVOK 04\/M01 Q1019=\n\nTAF SASA 272300Z 2800\/2824 27005KT CAVOK TN04\/2810Z TX25\/2818Z \nBECMG 2813\/2816 05010KT="
+        ],
+        [
+            "SASJ",
+            "JUJUY",
+            "-24.3928",
+            "-65.0978",
+            "g",
+            "METAR COR SASJ 280500Z 29006KT CAVOK 09\/M01 Q1018=\n\nTAF SASJ 272300Z 2800\/2824 29005KT CAVOK TN07\/2810Z TX27\/2818Z \nBECMG 2813\/2816 07010KT="
+        ],
+        [
+            "SASO",
+            "ORAN",
+            "-23.1528",
+            "-64.3292",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SASO\n\nTAF n\u00e3o dispon\u00edvel para SASO"
+        ],
+        [
+            "SASQ",
+            "LA QUIACA",
+            "-22.1622",
+            "-65.5697",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SASQ\n\nTAF n\u00e3o dispon\u00edvel para SASQ"
+        ],
+        [
+            "SAST",
+            "GENERAL ENRIQUE MOSCONI TARTAGAL",
+            "-22.6197",
+            "-63.7936",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAST\n\nTAF n\u00e3o dispon\u00edvel para SAST"
+        ],
+        [
+            "SATG",
+            "GOYA",
+            "-29.1058",
+            "-59.2186",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATG\n\nTAF n\u00e3o dispon\u00edvel para SATG"
+        ],
+        [
+            "SATK",
+            "ALFEREZ ARMANDO RODRIGUEZ",
+            "-24.7211",
+            "-60.5486",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATK\n\nTAF n\u00e3o dispon\u00edvel para SATK"
+        ],
+        [
+            "SATM",
+            "MERCEDES",
+            "-29.2231",
+            "-58.0881",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATM\n\nTAF n\u00e3o dispon\u00edvel para SATM"
+        ],
+        [
+            "SATO",
+            "OBERA",
+            "-27.5181",
+            "-55.1239",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATO\n\nTAF n\u00e3o dispon\u00edvel para SATO"
+        ],
+        [
+            "SATR",
+            "RECONQUISTA",
+            "-29.21",
+            "-59.6908",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATR\n\nTAF n\u00e3o dispon\u00edvel para SATR"
+        ],
+        [
+            "SATU",
+            "CURUZU CUATIA",
+            "-29.7706",
+            "-57.9789",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SATU\n\nTAF n\u00e3o dispon\u00edvel para SATU"
+        ],
+        [
+            "SAVB",
+            "EL BOLSON",
+            "-41.9431",
+            "-71.5322",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVB\n\nTAF n\u00e3o dispon\u00edvel para SAVB"
+        ],
+        [
+            "SAVC",
+            "COMODORO RIVADAVIA",
+            "-45.785",
+            "-67.4656",
+            "g",
+            "METAR SAVC 280500Z 29017G28KT CAVOK 10\/02 Q1002=\n\nTAF SAVC 272300Z 2800\/2824 36010KT 9999 SCT030 BKN080 TN06\/2811Z TX17\/2819Z \nBECMG 2801\/2803 27023KT SCT030 SCT080 \nTEMPO 2812\/2820 27030KT \nBECMG 2821\/2823 27010KT="
+        ],
+        [
+            "SAVD",
+            "EL MAITEN",
+            "-42.0306",
+            "-71.1697",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVD\n\nTAF n\u00e3o dispon\u00edvel para SAVD"
+        ],
+        [
+            "SAVE",
+            "ESQUEL",
+            "-42.9078",
+            "-71.1394",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVE\n\nTAF n\u00e3o dispon\u00edvel para SAVE"
+        ],
+        [
+            "SAVH",
+            "LAS HERAS",
+            "-46.5383",
+            "-68.9658",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVH\n\nTAF n\u00e3o dispon\u00edvel para SAVH"
+        ],
+        [
+            "SAVT",
+            "ALMIRANTE ZAR",
+            "-43.2103",
+            "-65.2703",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVT\n\nTAF n\u00e3o dispon\u00edvel para SAVT"
+        ],
+        [
+            "SAVV",
+            "GOBERNADOR CASTELLO",
+            "-40.8692",
+            "-63.0003",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVV\n\nTAF n\u00e3o dispon\u00edvel para SAVV"
+        ],
+        [
+            "SAVY",
+            "EL TEHUELCHE",
+            "-42.7589",
+            "-65.1025",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAVY\n\nTAF n\u00e3o dispon\u00edvel para SAVY"
+        ],
+        [
+            "SAWA",
+            "LAGO ARGENTINO",
+            "-50.3353",
+            "-72.2483",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWA\n\nTAF n\u00e3o dispon\u00edvel para SAWA"
+        ],
+        [
+            "SAWD",
+            "PUERTO DESEADO",
+            "-47.7353",
+            "-65.9039",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWD\n\nTAF n\u00e3o dispon\u00edvel para SAWD"
+        ],
+        [
+            "SAWE",
+            "RIO GRANDE",
+            "-53.7775",
+            "-67.7492",
+            "r",
+            "METAR SAWE 280500Z 34009KT 4000 RA BR BKN002 OVC050 04\/03 Q0994=\n\nTAF SAWE 272300Z 2800\/2824 02015KT 5000 RADZ BKN005 OVC010 TN02\/2809Z TX10\/2819Z \nPROB30 TEMPO 2800\/2804 02028KT 1000 +DZRA OVC004 \nBECMG 2806\/2808 28010KT 9999 NSW BKN020 SCT030 \nBECMG 2812\/2814 27020KT SCT020 SCT040="
+        ],
+        [
+            "SAWG",
+            "RIO GALLEGOS",
+            "-51.6086",
+            "-69.3125",
+            "g",
+            "METAR SAWG 280500Z 34009KT CAVOK 03\/01 Q0993=\n\nTAF SAWG 272300Z 2800\/2824 02025KT 9999 BKN020 SCT030 TN01\/2810Z TX12\/2819Z \nTEMPO 2800\/2802 SHRA \nBECMG 2802\/2804 VRB05KT SCT020 SCT040 \nBECMG 2812\/2814 28020KT="
+        ],
+        [
+            "SAWH",
+            "USHUAIA MALVINAS ARGENTINAS",
+            "-54.8431",
+            "-68.2956",
+            "g",
+            "METAR SAWH 280500Z 05011KT 9999 -DZ BKN020 OVC050 04\/01 Q0992=\n\nTAF SAWH 272300Z 2800\/2824 36025KT 9999 BKN020 BKN030 TN02\/2811Z TX08\/2819Z \nTEMPO 2800\/2804 5000 RA \nBECMG 2810\/2812 28020KT="
+        ],
+        [
+            "SAWJ",
+            "SAN JULIAN",
+            "-49.3067",
+            "-67.8025",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWJ\n\nTAF n\u00e3o dispon\u00edvel para SAWJ"
+        ],
+        [
+            "SAWS",
+            "JOSE DE SAN MARTIN",
+            "-44.0481",
+            "-70.4592",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWS\n\nTAF n\u00e3o dispon\u00edvel para SAWS"
+        ],
+        [
+            "SAWT",
+            "EL TURBIO",
+            "-51.6064",
+            "-72.2167",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWT\n\nTAF n\u00e3o dispon\u00edvel para SAWT"
+        ],
+        [
+            "SAWU",
+            "SANTA CRUZ",
+            "-50.0164",
+            "-68.5792",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAWU\n\nTAF n\u00e3o dispon\u00edvel para SAWU"
+        ],
+        [
+            "SAZB",
+            "COMANDANTE ESPORA",
+            "-38.7247",
+            "-62.1692",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZB\n\nTAF n\u00e3o dispon\u00edvel para SAZB"
+        ],
+        [
+            "SAZC",
+            "CORONEL SUAREZ",
+            "-37.4461",
+            "-61.8892",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZC\n\nTAF n\u00e3o dispon\u00edvel para SAZC"
+        ],
+        [
+            "SAZD",
+            "DOLORES",
+            "-36.3203",
+            "-57.7217",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZD\n\nTAF n\u00e3o dispon\u00edvel para SAZD"
+        ],
+        [
+            "SAZF",
+            "OLAVARRIA",
+            "-36.8908",
+            "-60.2161",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZF\n\nTAF n\u00e3o dispon\u00edvel para SAZF"
+        ],
+        [
+            "SAZG",
+            "GENERAL PICO",
+            "-35.6961",
+            "-63.7581",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZG\n\nTAF n\u00e3o dispon\u00edvel para SAZG"
+        ],
+        [
+            "SAZH",
+            "TRES ARROYOS",
+            "-38.3867",
+            "-60.3294",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZH\n\nTAF n\u00e3o dispon\u00edvel para SAZH"
+        ],
+        [
+            "SAZI",
+            "BOLIVAR",
+            "-36.1869",
+            "-61.0761",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZI\n\nTAF n\u00e3o dispon\u00edvel para SAZI"
+        ],
+        [
+            "SAZL",
+            "SANTA TERESITA",
+            "-36.5422",
+            "-56.7217",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZL\n\nTAF n\u00e3o dispon\u00edvel para SAZL"
+        ],
+        [
+            "SAZM",
+            "MAR DEL PLATA",
+            "-37.9342",
+            "-57.5733",
+            "gw",
+            "METAR SAZM 280400Z 04004KT CAVOK 08\/07 Q1022=\n\nTAF SAZM 272300Z 2800\/2824 12005KT CAVOK TN03\/2810Z TX17\/2818Z \nBECMG 2802\/2804 36010KT \nPROB40 2806\/2811 5000 BR NSC \nTEMPO 2813\/2819 36015G25KT="
+        ],
+        [
+            "SAZN",
+            "PRESIDENTE PERON",
+            "-38.9489",
+            "-68.1556",
+            "gw",
+            "METAR COR SAZN 280400Z 00000KT CAVOK 11\/01 Q1014=\n\nTAF SAZN 272300Z 2800\/2824 VRB03KT CAVOK TN04\/2811Z TX19\/2818Z \nTEMPO 2802\/2806 9000 -RA SCT020 BKN050 \nBECMG 2806\/2808 27010KT="
+        ],
+        [
+            "SAZO",
+            "NECOCHEA",
+            "-38.4894",
+            "-58.8158",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZO\n\nTAF n\u00e3o dispon\u00edvel para SAZO"
+        ],
+        [
+            "SAZP",
+            "COMODORO P ZANNI",
+            "-35.8456",
+            "-61.8578",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZP\n\nTAF n\u00e3o dispon\u00edvel para SAZP"
+        ],
+        [
+            "SAZR",
+            "SANTA ROSA",
+            "-36.5881",
+            "-64.2753",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZR\n\nTAF n\u00e3o dispon\u00edvel para SAZR"
+        ],
+        [
+            "SAZS",
+            "SAN CARLOS DE BARILOCHE",
+            "-41.1511",
+            "-71.1575",
+            "g",
+            "METAR SAZS 280500Z 31009KT 8000 VCSH SCT013 BKN020 BKN050 03\/02 Q1011 RERA=\n\nTAF SAZS 272300Z 2800\/2824 29020KT 8000 -SHRA BKN025 OVC040 TN01\/2811Z TX05\/2818Z \nTEMPO 2803\/2805 6000 RASN \nBECMG 2806\/2808 29005KT 9999 NSW SCT010 BKN020 \nBECMG 2820\/2822 5000 RASN BKN020 OVC050="
+        ],
+        [
+            "SAZT",
+            "TANDIL",
+            "-37.2372",
+            "-59.2278",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZT\n\nTAF n\u00e3o dispon\u00edvel para SAZT"
+        ],
+        [
+            "SAZV",
+            "VILLA GESELL",
+            "-37.2353",
+            "-57.0292",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZV\n\nTAF n\u00e3o dispon\u00edvel para SAZV"
+        ],
+        [
+            "SAZW",
+            "CUTRALCO",
+            "-38.9394",
+            "-69.2644",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZW\n\nTAF n\u00e3o dispon\u00edvel para SAZW"
+        ],
+        [
+            "SAZY",
+            "AVIADOR C CAMPOS",
+            "-40.0753",
+            "-71.1372",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SAZY\n\nTAF n\u00e3o dispon\u00edvel para SAZY"
+        ],
+        [
+            "SBFS",
+            "Heliporto Farol de S\u00e3o Tom\u00e9",
+            "-22.0289",
+            "-41.0697",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBFS\n\nTAF n\u00e3o dispon\u00edvel para SBFS"
+        ],
+        [
+            "SBEK",
+            "Aeroporto de Jacareacanga",
+            "-6.23306",
+            "-57.7767",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBEK\n\nTAF n\u00e3o dispon\u00edvel para SBEK"
+        ],
+        [
+            "SBEC",
+            "Plataforma P-15",
+            "-22.6775",
+            "-40.6061",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBEC\n\nTAF n\u00e3o dispon\u00edvel para SBEC"
+        ],
+        [
+            "SBCV",
+            "Aeroporto de Caravelas",
+            "-17.6522",
+            "-39.2531",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCV\n\nTAF n\u00e3o dispon\u00edvel para SBCV"
+        ],
+        [
+            "SBCM",
+            "Aeroporto Diom\u00edcio Freitas",
+            "-28.7256",
+            "-49.4247",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCM\n\nTAF n\u00e3o dispon\u00edvel para SBCM"
+        ],
+        [
+            "SBBQ",
+            "Aeroporto Major Brigadeiro Doorgal Borges",
+            "-21.2669",
+            "-43.7608",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBBQ\n\nTAF n\u00e3o dispon\u00edvel para SBBQ"
+        ],
+        [
+            "SBCC",
+            "Aeroporto do Cachimbo",
+            "-9.33389",
+            "-54.9653",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCC\n\nTAF SBCC 271500Z 2718\/2806 08005KT 9000 SCT040 TX32\/2718Z TN24\/2806Z \nBECMG 2720\/2722 CAVOK RMK PDW="
+        ],
+        [
+            "SBNV",
+            "AER\u00d3DROMO NACIONAL DE AVIA\u00c7\u00c3O ( SBNV )",
+            "-16.6256",
+            "-49.3494",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBNV\n\nTAF n\u00e3o dispon\u00edvel para SBNV"
+        ],
+        [
+            "SBMM",
+            "Plataforma P-20",
+            "-22.3569",
+            "-40.0906",
+            "g",
+            "METAR SBMM 280500Z AUTO 29003KT 9999 NCD 22\/20 Q1021 W\/\/\/S4=\n\nTAF n\u00e3o dispon\u00edvel para SBMM"
+        ],
+        [
+            "SBMI",
+            "Aeroporto de Maric\u00e1",
+            "-22.9181",
+            "-42.8289",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBMI\n\nTAF n\u00e3o dispon\u00edvel para SBMI"
+        ],
+        [
+            "SBMD",
+            "Aeroporto da Serra do Are\u00e3o",
+            "-0.889722",
+            "-52.6022",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBMD\n\nTAF n\u00e3o dispon\u00edvel para SBMD"
+        ],
+        [
+            "SBLS",
+            "Base A\u00e9rea de Lagoa Santa \/ PAMALS",
+            "-19.6614",
+            "-43.8964",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBLS\n\nTAF n\u00e3o dispon\u00edvel para SBLS"
+        ],
+        [
+            "SBLB",
+            "Plataforma P-25 ALBACORA",
+            "-22.1",
+            "-39.9167",
+            "g",
+            "SPECI SBLB 280503Z AUTO 26008KT 9999 -SHRA NCD 22\/20 Q1021 W24\/S4=\n\nTAF n\u00e3o dispon\u00edvel para SBLB"
+        ],
+        [
+            "SBJC",
+            "Aeroporto de Bel\u00e9m\/Brigadeiro Prot\u00e1sio de Oliveira",
+            "-1.41389",
+            "-48.4606",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJC\n\nTAF n\u00e3o dispon\u00edvel para SBJC"
+        ],
+        [
+            "SBIT",
+            "Aeroporto de Itumbiara \/ Francisco Vilela do Amaral",
+            "-18.4444",
+            "-49.2133",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBIT\n\nTAF n\u00e3o dispon\u00edvel para SBIT"
+        ],
+        [
+            "SBIC",
+            "Aeroporto de Itacoatiara",
+            "-3.12722",
+            "-58.4811",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBIC\n\nTAF n\u00e3o dispon\u00edvel para SBIC"
+        ],
+        [
+            "SBGP",
+            "Aer\u00f3dromo de Gavi\u00e3o Peixoto",
+            "-21.7644",
+            "-48.4047",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBGP\n\nTAF SBGP 271500Z 2718\/2806 16010KT 9000 NSC TX29\/2718Z TN15\/2806Z RMK PDW="
+        ],
+        [
+            "SBGM",
+            "Aeroporto de Guajar\u00e1-Mirim",
+            "-10.7861",
+            "-65.2847",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBGM\n\nTAF n\u00e3o dispon\u00edvel para SBGM"
+        ],
+        [
+            "SERB",
+            "CHIMBORAZO",
+            "-1.65361",
+            "-78.6561",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SERB\n\nTAF n\u00e3o dispon\u00edvel para SERB"
+        ],
+        [
+            "SBUY",
+            "Aeroporto de Porto Urucu",
+            "-4.88333",
+            "-65.3564",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBUY\n\nTAF n\u00e3o dispon\u00edvel para SBUY"
+        ],
+        [
+            "SBTV",
+            "Aeroporto Terravista",
+            "-16.5408",
+            "-39.1078",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTV\n\nTAF n\u00e3o dispon\u00edvel para SBTV"
+        ],
+        [
+            "SBTS",
+            "Aeroporto de Tirios",
+            "2.22333",
+            "-55.9458",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTS\n\nTAF n\u00e3o dispon\u00edvel para SBTS"
+        ],
+        [
+            "SBTR",
+            "Aeroporto de Torres",
+            "-29.41",
+            "-49.8103",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTR\n\nTAF n\u00e3o dispon\u00edvel para SBTR"
+        ],
+        [
+            "SBTC",
+            "Aeroporto Ilha de Comandatuba \/ Hotel Transam\u00e9rica",
+            "-15.3553",
+            "-38.9989",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTC\n\nTAF n\u00e3o dispon\u00edvel para SBTC"
+        ],
+        [
+            "SBPR",
+            "Aeroporto de Carlos Prates",
+            "-19.9089",
+            "-43.9889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPR\n\nTAF n\u00e3o dispon\u00edvel para SBPR"
+        ],
+        [
+            "SBPC",
+            "Aeroporto de Po\u00e7os de Caldas",
+            "-21.8428",
+            "-46.5678",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPC\n\nTAF n\u00e3o dispon\u00edvel para SBPC"
+        ],
+        [
+            "SCAC",
+            "PUPELDE",
+            "-41.9061",
+            "-73.7967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCAC\n\nTAF n\u00e3o dispon\u00edvel para SCAC"
+        ],
+        [
+            "SCAP",
+            "ALTO PALENA",
+            "-43.6153",
+            "-71.8069",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCAP\n\nTAF n\u00e3o dispon\u00edvel para SCAP"
+        ],
+        [
+            "SCAR",
+            "CHACALLUTA",
+            "-18.3483",
+            "-70.3386",
+            "g",
+            "METAR SCAR 280500Z 21007KT 9999 OVC026 15\/11 Q1018=\n\nTAF SCAR 272230Z 2800\/2824 20004KT 9999 OVC030 TN15\/2810Z TX17\/2817Z \nBECMG 2804\/2806 01004KT \nBECMG 2808\/2810 11004KT \nBECMG 2816\/2817 23010KT BKN030 \nBECMG 2818\/2820 CAVOK \nBECMG 2822\/2824 20004KT BKN028="
+        ],
+        [
+            "SCBA",
+            "BALMACEDA",
+            "-45.9158",
+            "-71.6892",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCBA\n\nTAF COR SCBA 272259Z 2800\/2824 30008KT 9999 -SHRA FEW015 OVC020 TNM00\/2805Z TX06\/2818Z \nTEMPO 2801\/2806 NSW BKN020 BKN035 \nBECMG 2807\/2809 30018KT NSW SCT025 BKN035 \nBECMG 2813\/2815 FEW020 SCT035 BKN040 \nTEMPO 2815\/2819 30018G28KT SCT045 \nBECMG 2822\/2824 30008KT SCT020 BKN030 OVC040="
+        ],
+        [
+            "SCBQ",
+            "EL BOSQUE",
+            "-33.5617",
+            "-70.6883",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCBQ\n\nTAF n\u00e3o dispon\u00edvel para SCBQ"
+        ],
+        [
+            "SCCC",
+            "CHILE CHICO",
+            "-46.5817",
+            "-71.6975",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCCC\n\nTAF n\u00e3o dispon\u00edvel para SCCC"
+        ],
+        [
+            "SCCF",
+            "EL LOA",
+            "-22.4986",
+            "-68.9042",
+            "g",
+            "METAR SCCF 280500Z AUTO 11016KT 9999 NCD 03\/M17 Q1028=\n\nTAF SCCF 272230Z 2800\/2824 27015KT CAVOK TNM01\/2806Z TX22\/2818Z \nBECMG 2803\/2805 11012KT \nBECMG 2807\/2809 12018KT \nBECMG 2814\/2815 09008KT \nBECMG 2816\/2818 27020KT="
+        ],
+        [
+            "SKUI",
+            "EL CARANO",
+            "5.69056",
+            "-76.6411",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKUI\n\nTAF n\u00e3o dispon\u00edvel para SKUI"
+        ],
+        [
+            "SBCB",
+            "Aeroporto de Cabo Frio",
+            "-22.9217",
+            "-42.0742",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCB\n\nTAF SBCB 272030Z 2800\/2812 24015KT 8000 BKN020 TN20\/2809Z TX22\/2812Z \nTEMPO 2800\/2803 SCT015 BKN020 \nBECMG 2803\/2806 27010KT SCT012 BKN020 \nTEMPO 2806\/2812 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBDO",
+            "Aeroporto Regional de Dourados \/ Francisco de Mato",
+            "-22.1978",
+            "-54.9225",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBDO\n\nTAF n\u00e3o dispon\u00edvel para SBDO"
+        ],
+        [
+            "SBDN",
+            "Aeroporto de Presidente Prudente",
+            "-22.175",
+            "-51.4244",
+            "g",
+            "METAR SBDN 280500Z 10009KT 8000 RA SCT015 BKN080 OVC100 16\/16 Q1021=\n\nTAF SBDN 272200Z 2800\/2812 13008KT CAVOK TX20\/2800Z TN16\/2810Z RMK PGG="
+        ],
+        [
+            "SBGL",
+            "Aeroporto Internacional do Rio de Janeiro \/ Gale\u00e3o",
+            "-22.8089",
+            "-43.2436",
+            "g",
+            "METAR SBGL 280500Z 06003KT 9999 SCT020 BKN060 BKN080 21\/19 Q1021=\n\nTAF SBGL 272030Z 2800\/2906 24015KT 8000 BKN020 TN20\/2809Z TX25\/2816Z \nTEMPO 2800\/2803 21015KT 6000 RA SCT012 BKN020 \nBECMG 2804\/2806 17010KT SCT012 BKN020 \nTEMPO 2806\/2812 5000 RA BR BKN012 \nBECMG 2813\/2815 SCT020 \nBECMG 2816\/2818 15015KT BKN020 \nTEMPO 2818\/2821 6000 RA SCT012 BKN020 \nBECMG 2822\/2824 12010KT SCT020 \nBECMG 2901\/2903 15007KT SCT015 \nBECMG 2904\/2906 12007KT 6000 SCT012 RMK PGS="
+        ],
+        [
+            "SBGR",
+            "Aeroporto Internacional de S\u00e3o Paulo\/Guarulhos \u2013 Governador Andr\u00e9 Franco Montoro",
+            "-23.4322",
+            "-46.4692",
+            "y",
+            "METAR SBGR 280500Z 12006KT 9999 BKN013 16\/14 Q1023=\n\nTAF SBGR 272000Z 2800\/2906 14007KT 9999 BKN009 TN15\/2809Z TX20\/2818Z \nTEMPO 2800\/2809 4000 DZ BR OVC007 \nPROB40 2809\/2812 3000 RA BR OVC005 \nBECMG 2813\/2815 9999 BKN017 \nBECMG 2819\/2821 BKN009 \nPROB30 2821\/2824 4000 DZ BR BKN008 RMK PGF="
+        ],
+        [
+            "SBMT",
+            "Aeroporto Campo de Marte",
+            "-23.5089",
+            "-46.6375",
+            "yw",
+            "METAR SBMT 280200Z 14006KT 8000 SCT009 OVC011 15\/13 Q1024=\n\nTAF SBMT 272000Z 2800\/2812 15007KT 8000 BKN013 TX18\/2800Z TN16\/2809Z \nTEMPO 2800\/2806 5000 DZ BR OVC009 \nPROB30 2809\/2812 4000 RA BR OVC008 RMK PGF="
+        ],
+        [
+            "SBVG",
+            "Aeroporto Major Brigadeiro Trompowsky",
+            "-21.59",
+            "-45.4733",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBVG\n\nTAF SBVG 271600Z 2718\/2806 06005KT CAVOK TX30\/2718Z TN19\/2805Z RMK PGQ="
+        ],
+        [
+            "SBUR",
+            "Aeroporto de Uberaba \/ M\u00e1rio de Almeida Franco",
+            "-19.765",
+            "-47.9647",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBUR\n\nTAF SBUR 272200Z 2800\/2812 18005KT 4000 HZ NSC TX27\/2800Z TN20\/2810Z \nBECMG 2806\/2808 09007KT RMK PGG="
+        ],
+        [
+            "SBFL",
+            "Aeroporto Internacional de Florian\u00f3polis - Herc\u00edlio Luz",
+            "-27.6725",
+            "-48.5478",
+            "g",
+            "METAR SBFL 280500Z 00000KT 9999 FEW026 13\/11 Q1024=\n\nTAF SBFL 272100Z 2800\/2824 16007KT 9999 SCT020 TN16\/2806Z TX20\/2816Z \nBECMG 2802\/2804 BKN020 \nPROB40 TEMPO 2804\/2810 BKN010 \nPROB40 TEMPO 2812\/2820 8000 RA SCT010 BKN020 \nBECMG 2820\/2822 SCT020 RMK PDW="
+        ],
+        [
+            "SBNM",
+            "Santo \u00c2ngelo",
+            "-28.2822",
+            "-54.1689",
+            "g",
+            "METAR SBNM 280500Z AUTO 09007KT CAVOK 09\/07 Q1021=\n\nTAF SBNM 272100Z 2800\/2812 12007KT CAVOK TX12\/2800Z TN08\/2808Z RMK PDW="
+        ],
+        [
+            "SBNF",
+            "Aeroporto Internacional de Navegantes - Ministro Victor Konder",
+            "-26.88",
+            "-48.6514",
+            "gw",
+            "SPECI SBNF 280245Z 15004KT 9999 BKN035 17\/13 Q1024=\n\nTAF SBNF 272100Z 2800\/2824 14007KT 9999 SCT015 TN15\/2806Z TX18\/2814Z \nPROB40 TEMPO 2812\/2820 5000 RA BR BKN010 \nBECMG 2820\/2822 BKN015 RMK PDW="
+        ],
+        [
+            "SBUG",
+            "Aeroporto Internacional de Uruguaiana\/Rubem Berta",
+            "-29.7819",
+            "-57.0381",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBUG\n\nTAF SBUG 271500Z 2718\/2806 09007KT CAVOK TX21\/2718Z TN10\/2806Z RMK PDW="
+        ],
+        [
+            "SBNT",
+            "Aeroporto Internacional Augusto Severo",
+            "-5.91111",
+            "-35.2478",
+            "g",
+            "METAR SBNT 280500Z 15005KT 9999 SCT021 24\/22 Q1014=\n\nTAF SBNT 272030Z 2800\/2812 15010KT 9999 SCT020 TN23\/2808Z TX27\/2812Z \nBECMG 2804\/2806 18010KT \nBECMG 2810\/2812 15015KT 8000 BKN020 FEW025TCU RMK PGS="
+        ],
+        [
+            "SBMS",
+            "Aeroporto Dix-Sept Rosado",
+            "-5.20167",
+            "-37.3642",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBMS\n\nTAF SBMS 271515Z 2718\/2806 10015KT 9999 FEW025 TX35\/2718Z TN22\/2806Z \nTEMPO 2718\/2721 07015KT 8000 BKN020 FEW025TCU \nBECMG 2722\/2724 10010KT CAVOK \nBECMG 2804\/2806 13010KT RMK PGS="
+        ],
+        [
+            "SBUF",
+            "Aeroporto de Paulo Afonso",
+            "-9.40083",
+            "-38.2506",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBUF\n\nTAF n\u00e3o dispon\u00edvel para SBUF"
+        ],
+        [
+            "SBTE",
+            "Aeroporto Senador Petr\u00f4nio Portella",
+            "-5.05972",
+            "-42.8233",
+            "g",
+            "METAR SBTE 280500Z 35004KT CAVOK 27\/21 Q1010=\n\nTAF SBTE 272030Z 2800\/2812 35007KT CAVOK TN25\/2809Z TX29\/2812Z \nBECMG 2804\/2806 32007KT \nBECMG 2810\/2812 15010KT SCT025 RMK PGS="
+        ],
+        [
+            "SBAA",
+            "Aeroporto de Concei\u00e7\u00e3o do Araguaia",
+            "-8.34833",
+            "-49.3014",
+            "g",
+            "METAR SBAA 280500Z AUTO 36004KT 270V070 CAVOK 25\/22 Q1010=\n\nTAF n\u00e3o dispon\u00edvel para SBAA"
+        ],
+        [
+            "SBTK",
+            "Aeroporto Municipal de Tarauac\u00e1 - Jos\u00e9 Galera dos Santos",
+            "-8.155",
+            "-70.7831",
+            "g",
+            "METAR SBTK 280500Z AUTO VRB02KT 9999 VCTS \/\/\/\/\/\/CB 24\/23 Q1012=\n\nTAF n\u00e3o dispon\u00edvel para SBTK"
+        ],
+        [
+            "SSGG",
+            "Aeroporto Regional de Guarapuava - Tancredo Thomas de Faria (SSGG)",
+            "-25.38833333",
+            "-51.52361111",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SSGG\n\nTAF n\u00e3o dispon\u00edvel para SSGG"
+        ],
+        [
+            "SCCH",
+            "GENERAL BERNARDO O HIGGINS",
+            "-36.5828",
+            "-72.0317",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCCH\n\nTAF n\u00e3o dispon\u00edvel para SCCH"
+        ],
+        [
+            "SCCI",
+            "CARLOS IBANEZ DEL CAMPO INTERNATIONAL",
+            "-53.0028",
+            "-70.8547",
+            "g",
+            "METAR SCCI 280500Z 34004KT 9999 SCT030 BKN100 02\/01 Q0991 NOSIG=\n\nTAF SCCI 272239Z 2800\/2900 03015KT 7000 SCT008 BKN015 TNM01\/2810Z TX07\/2818Z \nBECMG 2803\/2805 29012KT 9999 SCT042 \nTEMPO 2815\/2818 27020G30KT \nTEMPO 2820\/2900 8000 -SHRA SCT025 BKN035="
+        ],
+        [
+            "SCCY",
+            "TENIENTE VIDAL",
+            "-45.5942",
+            "-72.1061",
+            "g",
+            "METAR SCCY 280500Z AUTO VRB03KT 9999 -RA OVC045 04\/02 Q1004=\n\nTAF n\u00e3o dispon\u00edvel para SCCY"
+        ],
+        [
+            "SCDA",
+            "DIEGO ARACENA INTERNATIONAL",
+            "-20.535",
+            "-70.1811",
+            "g",
+            "METAR SCDA 280500Z 12007KT 9999 BKN024 15\/08 Q1019=\n\nTAF SCDA 272230Z 2800\/2824 22007KT 9999 OVC030 TN14\/2810Z TX17\/2818Z \nBECMG 2805\/2807 11004KT \nBECMG 2814\/2816 23010KT FEW030 \nBECMG 2821\/2823 BKN030="
+        ],
+        [
+            "SCEL",
+            "ARTURO MERINO BENITEZ INTERNATIONAL",
+            "-33.3928",
+            "-70.7856",
+            "g",
+            "METAR SCEL 280500Z AUTO 32003KT 280V060 9999 OVC130\/\/\/ 09\/06 Q1022=\n\nTAF SCEL 272200Z 2800\/2824 22010KT 9999 SCT130 BKN160 TX18\/2819Z TN07\/2810Z \nBECMG 2802\/2804 15004KT \nBECMG 2808\/2810 VRB02KT SCT100 BKN150 \nTEMPO 2810\/2814 6000 \nBECMG 2816\/2818 19010KT SCT180 \nBECMG 2821\/2823 CAVOK="
+        ],
+        [
+            "SCFA",
+            "CERRO MORENO INTERNATIONAL",
+            "-23.4444",
+            "-70.445",
+            "g",
+            "METAR SCFA 280500Z 19004KT 9999 OVC017 13\/09 Q1019 NOSIG=\n\nTAF SCFA 272230Z 2800\/2824 21010KT 9999 OVC020 TN12\/2808Z TX16\/2818Z \nBECMG 2803\/2805 20004KT \nBECMG 2815\/2817 21012KT FEW020 \nBECMG 2820\/2822 BKN020="
+        ],
+        [
+            "SCFM",
+            "CAPITAN FUENTES MARTINEZ",
+            "-53.2536",
+            "-70.3192",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCFM\n\nTAF n\u00e3o dispon\u00edvel para SCFM"
+        ],
+        [
+            "SCGE",
+            "MARIA DOLORES",
+            "-37.4017",
+            "-72.4256",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCGE\n\nTAF n\u00e3o dispon\u00edvel para SCGE"
+        ],
+        [
+            "SCGZ",
+            "GUARDIAMARINA ZANARTU",
+            "-54.9308",
+            "-67.6261",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCGZ\n\nTAF n\u00e3o dispon\u00edvel para SCGZ"
+        ],
+        [
+            "SCHA",
+            "CHAMONATE",
+            "-27.2961",
+            "-70.4136",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCHA\n\nTAF n\u00e3o dispon\u00edvel para SCHA"
+        ],
+        [
+            "SCIC",
+            "GENERAL FREIRE",
+            "-34.9669",
+            "-71.2169",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCIC\n\nTAF n\u00e3o dispon\u00edvel para SCIC"
+        ],
+        [
+            "SCIE",
+            "CARRIEL SUR INTERNATIONAL",
+            "-36.7725",
+            "-73.0631",
+            "g",
+            "METAR SCIE 280500Z 02021G32KT 5000 -RA SCT015 BKN020 OVC025 11\/09 Q1019=\n\nTAF SCIE 272200Z 2800\/2824 01010KT 9999 RA BKN015 OVC030 TX14\/2818Z TN09\/2807Z \nBECMG 2815\/2817 8000 NSW SCT020 BKN025="
+        ],
+        [
+            "SCIP",
+            "MATAVERI INTERNATIONAL",
+            "-27.1647",
+            "-109.422",
+            "g",
+            "METAR SCIP 280500Z 26005KT 9999 BKN035 19\/15 Q1024 NOSIG=\n\nTAF SCIP 272211Z 2800\/2824 27006KT 9999 SCT030 TN14\/2807Z TX21\/2820Z \nTEMPO 2806\/2816 19010KT 5000 -SHRA SCT016 BKN040 BECGM 2817\/2819 15015KT SCT020 BKN040="
+        ],
+        [
+            "SCJO",
+            "CANAL BAJO CARLOS HOTT SIEBERT",
+            "-40.6114",
+            "-73.0603",
+            "g",
+            "METAR SCJO 280500Z AUTO 34006KT 9999 BKN036\/\/\/ OVC056\/\/\/ 08\/08 Q1014=\n\nTAF n\u00e3o dispon\u00edvel para SCJO"
+        ],
+        [
+            "SCLL",
+            "VALLENAR",
+            "-28.5975",
+            "-70.7592",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCLL\n\nTAF n\u00e3o dispon\u00edvel para SCLL"
+        ],
+        [
+            "SCRG",
+            "DE LA INDEPENDENCIA",
+            "-34.1736",
+            "-70.7756",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCRG\n\nTAF n\u00e3o dispon\u00edvel para SCRG"
+        ],
+        [
+            "SCSE",
+            "LA FLORIDA",
+            "-29.9164",
+            "-71.1911",
+            "g",
+            "METAR SCSE 280500Z AUTO VRB02KT 9999 FEW240\/\/\/ 10\/08 Q1020=\n\nTAF SCSE 272200Z 2800\/2824 28010KT 9999 BKN015 TX17\/2818Z TN09\/2810Z \nBECMG 2801\/2803 14004KT \nBECMG 2806\/2808 SCT020 \nBECMG 2816\/2818 30010KT CAVOK="
+        ],
+        [
+            "SCSN",
+            "SANTO DOMINGO",
+            "-33.6567",
+            "-71.6156",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCSN\n\nTAF n\u00e3o dispon\u00edvel para SCSN"
+        ],
+        [
+            "SCST",
+            "GAMBOA",
+            "-42.4908",
+            "-73.7744",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCST\n\nTAF n\u00e3o dispon\u00edvel para SCST"
+        ],
+        [
+            "SCTB",
+            "EULOGIO SANCHEZ",
+            "-33.4564",
+            "-70.5467",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCTB\n\nTAF n\u00e3o dispon\u00edvel para SCTB"
+        ],
+        [
+            "SCTC",
+            "MAQUEHUE",
+            "-38.7686",
+            "-72.6358",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCTC\n\nTAF n\u00e3o dispon\u00edvel para SCTC"
+        ],
+        [
+            "SCTE",
+            "EL TEPUAL INTERNATIONAL",
+            "-41.4386",
+            "-73.0939",
+            "y",
+            "METAR SCTE 280500Z 33006KT 8000 -SHRA OVC006 08\/08 Q1013 NOSIG=\n\nTAF COR SCTE 272335Z 2800\/2824 35008KT 9999 SCT016 BKN040 TN06\/2807Z TX11\/2817Z \nTEMPO 2800\/2804 VRB02KT 9999 -SHRA FEW015 BKN020 \nBECMG 2805\/2807 FEW010 SCT035 BKN200 \nBECMG 2813\/2815 02012KT SCT018 SCT035 OVC150 \nBECMG 2818\/2820 -RA SCT020 BKN035 OVC080 \nTEMPO 2820\/2824 02012G24KT 7000 RA BKN016 OVC030="
+        ],
+        [
+            "SCTI",
+            "LOS CERRILLOS",
+            "-33.4933",
+            "-70.6975",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SCTI\n\nTAF n\u00e3o dispon\u00edvel para SCTI"
+        ],
+        [
+            "SCTN",
+            "CHAITEN",
+            "-42.9331",
+            "-72.6992",
+            "g",
+            "METAR SCTN 280500Z AUTO 35010KT 9999 FEW017 OVC038 09\/08 Q1012=\n\nTAF n\u00e3o dispon\u00edvel para SCTN"
+        ],
+        [
+            "SCVD",
+            "PICHOY",
+            "-39.6497",
+            "-73.0861",
+            "g",
+            "METAR SCVD 280500Z AUTO 04005KT 6000 -RA FEW007 BKN021 09\/09 Q1015=\n\nTAF n\u00e3o dispon\u00edvel para SCVD"
+        ],
+        [
+            "SEAM",
+            "CHACHOAN",
+            "-1.2125",
+            "-78.5742",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEAM\n\nTAF n\u00e3o dispon\u00edvel para SEAM"
+        ],
+        [
+            "SECM",
+            "HACIENDA CLEMENTINA",
+            "-1.70611",
+            "-79.3789",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SECM\n\nTAF n\u00e3o dispon\u00edvel para SECM"
+        ],
+        [
+            "SECO",
+            "FRANCISCO DE ORELLANA",
+            "-0.462778",
+            "-76.9864",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SECO\n\nTAF n\u00e3o dispon\u00edvel para SECO"
+        ],
+        [
+            "SECU",
+            "MARISCAL LAMAR",
+            "-2.88944",
+            "-78.9842",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SECU\n\nTAF n\u00e3o dispon\u00edvel para SECU"
+        ],
+        [
+            "SEGU",
+            "SIMON BOLIVAR INTERNATIONAL",
+            "-2.15778",
+            "-79.8839",
+            "g",
+            "METAR SEGU 280500Z 22011KT 9999 FEW008 SCT200 22\/19 Q1013 NOSIG RMK A2991=\n\nTAF SEGU 272242Z 2800\/2824 21010KT 9999 FEW010 BKN026 BKN100 \nBECMG 2812\/2814 SCT020 SCT100 \nBECMG 2818\/2820 16006KT BKN030 BKN100 TX29\/2820Z TN21\/2810Z="
+        ],
+        [
+            "SEGZ",
+            "GUALAQUIZA",
+            "-3.42333",
+            "-78.5731",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEGZ\n\nTAF n\u00e3o dispon\u00edvel para SEGZ"
+        ],
+        [
+            "SEIB",
+            "ATAHUALPA",
+            "0.338333",
+            "-78.1364",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEIB\n\nTAF n\u00e3o dispon\u00edvel para SEIB"
+        ],
+        [
+            "SELA",
+            "LAGO AGRIO",
+            "0.0922222",
+            "-76.8692",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SELA\n\nTAF n\u00e3o dispon\u00edvel para SELA"
+        ],
+        [
+            "SELJ",
+            "HACIENDA LA JULIA",
+            "-1.70417",
+            "-79.5522",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SELJ\n\nTAF n\u00e3o dispon\u00edvel para SELJ"
+        ],
+        [
+            "SELM",
+            "LOMA LARGA",
+            "-1.50139",
+            "-79.4808",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SELM\n\nTAF n\u00e3o dispon\u00edvel para SELM"
+        ],
+        [
+            "SELT",
+            "COTOPAXI INTERNATIONAL",
+            "-0.906667",
+            "-78.6156",
+            "g",
+            "METAR SELT 280500Z VRB01KT 9999 SCT030 06\/06 Q1031=\n\nTAF SELT 272242Z 2800\/2824 17010KT 9999 SCT030 SCT300 \nBECMG 2804\/2806 19005KT SCT010 BKN030 BKN100 \nBECMG 2813\/2815 17015KT BKN030 BKN100 TX17\/2819Z TN06\/2811Z="
+        ],
+        [
+            "SEMA",
+            "J M VELASCO IBARRA",
+            "-4.38028",
+            "-79.9406",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMA\n\nTAF n\u00e3o dispon\u00edvel para SEMA"
+        ],
+        [
+            "SEMC",
+            "MACAS",
+            "-2.29917",
+            "-78.1206",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMC\n\nTAF n\u00e3o dispon\u00edvel para SEMC"
+        ],
+        [
+            "SEMH",
+            "GENERAL SERRANO",
+            "-3.26889",
+            "-79.9617",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMH\n\nTAF n\u00e3o dispon\u00edvel para SEMH"
+        ],
+        [
+            "SEMO",
+            "EL CARMEN",
+            "-2.06694",
+            "-76.9753",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMO\n\nTAF n\u00e3o dispon\u00edvel para SEMO"
+        ],
+        [
+            "SEMT",
+            "ELOY ALFARO INTERNATIONAL",
+            "-0.945556",
+            "-80.6781",
+            "y",
+            "METAR SEMT 280500Z 20006KT 9999 OVC013 22\/20 Q1014 RMK A2995=\n\nTAF SEMT 272242Z 2800\/2824 22010KT 9999 SCT020 \nBECMG 2802\/2804 OVC016 \nBECMG 2817\/2819 28010KT SCT020 SCT100 TX28\/2820Z TN22\/2810Z="
+        ],
+        [
+            "SEMX",
+            "MARAGROSA",
+            "-2.85083",
+            "-79.8036",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMX\n\nTAF n\u00e3o dispon\u00edvel para SEMX"
+        ],
+        [
+            "SEMY",
+            "MARTINICA",
+            "-1.73972",
+            "-79.6217",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEMY\n\nTAF n\u00e3o dispon\u00edvel para SEMY"
+        ],
+        [
+            "SEPD",
+            "PEDERNALES",
+            "0.0730556",
+            "-80.0522",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEPD\n\nTAF n\u00e3o dispon\u00edvel para SEPD"
+        ],
+        [
+            "SEPV",
+            "REALES TAMARINDOS",
+            "-1.04139",
+            "-80.4719",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEPV\n\nTAF n\u00e3o dispon\u00edvel para SEPV"
+        ],
+        [
+            "SEQU",
+            "MARISCAL SUCRE INTERNATIONAL",
+            "-0.141111",
+            "-78.4881",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEQU\n\nTAF n\u00e3o dispon\u00edvel para SEQU"
+        ],
+        [
+            "SBYA",
+            "Aeroporto de Iauaret\u00ea",
+            "0.6075",
+            "-69.1858",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBYA\n\nTAF n\u00e3o dispon\u00edvel para SBYA"
+        ],
+        [
+            "SERO",
+            "VICTOR LARREA",
+            "-3.43528",
+            "-79.9778",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SERO\n\nTAF n\u00e3o dispon\u00edvel para SERO"
+        ],
+        [
+            "SESA",
+            "GENERAL ULPIANO PAEZ",
+            "-2.20472",
+            "-80.9886",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SESA\n\nTAF n\u00e3o dispon\u00edvel para SESA"
+        ],
+        [
+            "SESD",
+            "SANTO DOMINGO LOS COLORADOS",
+            "-0.248056",
+            "-79.2144",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SESD\n\nTAF n\u00e3o dispon\u00edvel para SESD"
+        ],
+        [
+            "SEST",
+            "SAN CRISTOBAL",
+            "-0.909722",
+            "-89.6158",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SEST\n\nTAF n\u00e3o dispon\u00edvel para SEST"
+        ],
+        [
+            "SETA",
+            "TAURA",
+            "-2.26083",
+            "-79.6892",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SETA\n\nTAF n\u00e3o dispon\u00edvel para SETA"
+        ],
+        [
+            "SETE",
+            "MAYOR GALO TORRES",
+            "-0.986667",
+            "-77.8194",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SETE\n\nTAF n\u00e3o dispon\u00edvel para SETE"
+        ],
+        [
+            "SETR",
+            "TARAPOA",
+            "-0.122778",
+            "-76.3375",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SETR\n\nTAF n\u00e3o dispon\u00edvel para SETR"
+        ],
+        [
+            "SETU",
+            "EL ROSAL TENIENTE MANTILLA",
+            "0.809444",
+            "-77.7081",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SETU\n\nTAF n\u00e3o dispon\u00edvel para SETU"
+        ],
+        [
+            "SGAS",
+            "SILVIO PETTIROSSI INTERNATIONAL",
+            "-25.2397",
+            "-57.5189",
+            "g",
+            "METAR SGAS 280500Z 18002KT CAVOK 13\/12 Q1019=\n\nTAF SGAS 272240Z 2800\/2900 09006KT 9999 SCT030 TX27\/2819Z TN12\/2810Z \nPROB30 2808\/2811 VRB05KT 5000 BR SCT027 \nBECMG 2815\/2818 13008KT BKN030="
+        ],
+        [
+            "SGAY",
+            "JUAN DE AYOLAS",
+            "-27.3706",
+            "-56.8539",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGAY\n\nTAF n\u00e3o dispon\u00edvel para SGAY"
+        ],
+        [
+            "SGCO",
+            "TENIENTE COL CARMELO PERALTA",
+            "-23.4417",
+            "-57.4269",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGCO\n\nTAF SGCO 272240Z 2800\/2900 09006KT 9999 SCT027 TX19\/2819Z TN14\/2810Z \nBECMG 2808\/2811 2000 BR BKN017 \nBECMG 2813\/2815 VRB05KT 9999 BKN027="
+        ],
+        [
+            "SGFI",
+            "FILADELFIA",
+            "-22.3597",
+            "-60.0536",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGFI\n\nTAF n\u00e3o dispon\u00edvel para SGFI"
+        ],
+        [
+            "SGIB",
+            "ITAIPU",
+            "-25.4075",
+            "-54.6194",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGIB\n\nTAF n\u00e3o dispon\u00edvel para SGIB"
+        ],
+        [
+            "SGME",
+            "DR LUIS MARIA ARGANA INTERNATIONAL",
+            "-22.0447",
+            "-60.6217",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGME\n\nTAF n\u00e3o dispon\u00edvel para SGME"
+        ],
+        [
+            "SGPI",
+            "CARLOS MIGUEL JIMENEZ",
+            "-26.8814",
+            "-58.3178",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SGPI\n\nTAF n\u00e3o dispon\u00edvel para SGPI"
+        ],
+        [
+            "SKAR",
+            "EL EDEN",
+            "4.45361",
+            "-75.7653",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKAR\n\nTAF n\u00e3o dispon\u00edvel para SKAR"
+        ],
+        [
+            "SKAS",
+            "TRES DE MAYO",
+            "0.505",
+            "-76.5008",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKAS\n\nTAF n\u00e3o dispon\u00edvel para SKAS"
+        ],
+        [
+            "SKBC",
+            "LAS FLORES",
+            "9.04528",
+            "-73.9747",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKBC\n\nTAF n\u00e3o dispon\u00edvel para SKBC"
+        ],
+        [
+            "SKBG",
+            "PALONEGRO",
+            "7.12639",
+            "-73.1847",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKBG\n\nTAF SKBG 272230Z 2800\/2824 VRB02KT 9999 SCT010 BKN070 \nTEMPO 2800\/2804 DZRA SCT010TCU \nTEMPO 2809\/2812 3000 BCFG DZ SCT008 \nBECMG 2816\/2818 33010KT SCT017 TX27\/2818Z TN18\/2810Z="
+        ],
+        [
+            "SKBO",
+            "ELDORADO INTERNATIONAL",
+            "4.70139",
+            "-74.1469",
+            "g",
+            "METAR SKBO 280500Z 12006KT 6000 TSRA FEW015CB BKN017 13\/12 Q1029 NOSIG RMK CB\/S A3039=\n\nTAF SKBO 272230Z 2800\/2824 VRB02KT 9999 SCT020 \nTEMPO 2800\/2804 DZRA SCT015TCU BKN070 \nBECMG 2816\/2818 06010KT \nTEMPO 2818\/2822 DZRA SCT017TCU TX21\/2718Z TN07\/2810Z="
+        ],
+        [
+            "SKBQ",
+            "ERNESTO CORTISSOZ",
+            "10.8894",
+            "-74.7806",
+            "g",
+            "METAR SKBQ 280500Z 03008KT 9999 SCT015 28\/25 Q1011 NOSIG RMK A2987=\n\nTAF SKBQ 272230Z 2800\/2824 03004KT 9999 SCT015 \nTEMPO 2810\/2812 5000 BR BKN010 \nTEMPO 2819\/2821 DZ FEW012CB TX31\/2816Z TN23\/2809Z="
+        ],
+        [
+            "SKBS",
+            "JOSE CELESTINO MUTIS",
+            "6.20278",
+            "-77.3944",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKBS\n\nTAF n\u00e3o dispon\u00edvel para SKBS"
+        ],
+        [
+            "SKBU",
+            "GERARDO TOBAR LOPEZ",
+            "3.81944",
+            "-76.9897",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKBU\n\nTAF n\u00e3o dispon\u00edvel para SKBU"
+        ],
+        [
+            "SKCC",
+            "CAMILO DAZA",
+            "7.9275",
+            "-72.5114",
+            "gw",
+            "METAR SKCC 280200Z 24004KT 9999 SCT018 SCT200 26\/22 Q1014 RMK A2995=\n\nTAF SKCC 272230Z 2800\/2824 26006KT 9999 SCT020 FM280400 VRB02KT 9999 FEW015 \nBECMG 2816\/2818 01012KT SCT020 TX33\/2818Z TN23\/2810Z="
+        ],
+        [
+            "SKCD",
+            "MANDINGA",
+            "5.07167",
+            "-76.6764",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKCD\n\nTAF n\u00e3o dispon\u00edvel para SKCD"
+        ],
+        [
+            "SKCG",
+            "RAFAEL NUNEZ",
+            "10.4422",
+            "-75.5128",
+            "g",
+            "METAR SKCG 280500Z 04003KT 9999 FEW017 BKN120 28\/26 Q1011 RMK A2985=\n\nTAF SKCG 272230Z 2800\/2824 35006KT 9999 FEW015 FM281200 VRB02KT SCT017 \nBECMG 2816\/2818 33010KT TX32\/2818Z TN25\/2810Z="
+        ],
+        [
+            "SKCL",
+            "ALFONSO BONILLA ARAGON INTERNATIONAL",
+            "3.54306",
+            "-76.3814",
+            "g",
+            "METAR SKCL 280500Z VRB02KT 9999 SCT030 BKN070 20\/19 Q1017 NOSIG RMK A3004=\n\nTAF SKCL 272230Z 2800\/2824 33012KT 9999 FEW030 \nBECMG 2804\/2806 04005KT \nTEMPO 2819\/2823 32012KT SCT023TCU TX30\/2820Z TN19\/2811Z="
+        ],
+        [
+            "SKCO",
+            "LA FLORIDA",
+            "1.81417",
+            "-78.7492",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKCO\n\nTAF n\u00e3o dispon\u00edvel para SKCO"
+        ],
+        [
+            "SKCZ",
+            "LAS BRUJAS",
+            "9.3325",
+            "-75.2856",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKCZ\n\nTAF n\u00e3o dispon\u00edvel para SKCZ"
+        ],
+        [
+            "SKEJ",
+            "YARIGUIES",
+            "7.02417",
+            "-73.8067",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKEJ\n\nTAF n\u00e3o dispon\u00edvel para SKEJ"
+        ],
+        [
+            "SKFL",
+            "GUSTAVO ARTUNDUAGA PAREDES",
+            "1.59028",
+            "-75.5639",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKFL\n\nTAF n\u00e3o dispon\u00edvel para SKFL"
+        ],
+        [
+            "SKGI",
+            "SANTIAGO VILA",
+            "4.27611",
+            "-74.7967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKGI\n\nTAF n\u00e3o dispon\u00edvel para SKGI"
+        ],
+        [
+            "SKGO",
+            "SANTA ANA",
+            "4.75806",
+            "-75.9556",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKGO\n\nTAF n\u00e3o dispon\u00edvel para SKGO"
+        ],
+        [
+            "SKGP",
+            "GUAPI",
+            "2.57",
+            "-77.8983",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKGP\n\nTAF n\u00e3o dispon\u00edvel para SKGP"
+        ],
+        [
+            "SKGY",
+            "GUAYMARAL",
+            "4.81222",
+            "-74.0647",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKGY\n\nTAF n\u00e3o dispon\u00edvel para SKGY"
+        ],
+        [
+            "SKIB",
+            "PERALES",
+            "4.42139",
+            "-75.1331",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKIB\n\nTAF n\u00e3o dispon\u00edvel para SKIB"
+        ],
+        [
+            "SKIP",
+            "SAN LUIS",
+            "0.861667",
+            "-77.6717",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKIP\n\nTAF n\u00e3o dispon\u00edvel para SKIP"
+        ],
+        [
+            "SKLC",
+            "ANTONIO ROLDAN BETANCOURT",
+            "7.81194",
+            "-76.7164",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKLC\n\nTAF n\u00e3o dispon\u00edvel para SKLC"
+        ],
+        [
+            "SKLM",
+            "LA MINA",
+            "11.2325",
+            "-72.49",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKLM\n\nTAF n\u00e3o dispon\u00edvel para SKLM"
+        ],
+        [
+            "SKLT",
+            "ALFREDO VASQUEZ COBO",
+            "-4.19306",
+            "-69.9425",
+            "g",
+            "METAR SKLT 280500Z 00000KT 9999 FEW010 SCT080 24\/24 Q1011 RMK A2988=\n\nTAF SKLT 272230Z 2800\/2824 VRB02KT 9999 SCT015 \nTEMPO 2806\/2810 DZRA SCT010 BKN080 \nPROB40 2819\/2822 TSRA SCT015CB BKN080 TX34\/2818Z TN23\/2810Z="
+        ],
+        [
+            "SKMD",
+            "OLAYA HERRERA",
+            "6.22",
+            "-75.5906",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKMD\n\nTAF n\u00e3o dispon\u00edvel para SKMD"
+        ],
+        [
+            "SKMG",
+            "BARACOA",
+            "9.28333",
+            "-74.8394",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKMG\n\nTAF n\u00e3o dispon\u00edvel para SKMG"
+        ],
+        [
+            "SKMR",
+            "LOS GARZONES",
+            "8.82361",
+            "-75.8258",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKMR\n\nTAF n\u00e3o dispon\u00edvel para SKMR"
+        ],
+        [
+            "SKMU",
+            "FABIO ALBERTO LEON BENTLEY",
+            "1.25361",
+            "-70.2336",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKMU\n\nTAF n\u00e3o dispon\u00edvel para SKMU"
+        ],
+        [
+            "SKMZ",
+            "LA NUBIA",
+            "5.02972",
+            "-75.465",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKMZ\n\nTAF n\u00e3o dispon\u00edvel para SKMZ"
+        ],
+        [
+            "SKNV",
+            "BENITO SALAS",
+            "2.95",
+            "-75.2939",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKNV\n\nTAF n\u00e3o dispon\u00edvel para SKNV"
+        ],
+        [
+            "SKOC",
+            "AGUAS CLARAS",
+            "8.31472",
+            "-73.3583",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKOC\n\nTAF n\u00e3o dispon\u00edvel para SKOC"
+        ],
+        [
+            "SKOT",
+            "OTU",
+            "7.01028",
+            "-74.7153",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKOT\n\nTAF n\u00e3o dispon\u00edvel para SKOT"
+        ],
+        [
+            "SKPB",
+            "PUERTO BOLIVAR",
+            "12.2214",
+            "-71.9847",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPB\n\nTAF n\u00e3o dispon\u00edvel para SKPB"
+        ],
+        [
+            "SKPC",
+            "PUERTO CARRENO",
+            "6.18444",
+            "-67.4931",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPC\n\nTAF n\u00e3o dispon\u00edvel para SKPC"
+        ],
+        [
+            "SKPE",
+            "MATECANA",
+            "4.8125",
+            "-75.7394",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPE\n\nTAF SKPE 272230Z 2800\/2824 32006KT 9999 SCT015 \nBECMG 2810\/2812 4000 BR BKN010 \nBECMG 2814\/2816 9999 NSW SCT013 \nTEMPO 2820\/2824 SCT015TCU TX26\/2820Z TN18\/2810Z="
+        ],
+        [
+            "SKPI",
+            "PITALITO",
+            "1.85833",
+            "-76.0858",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPI\n\nTAF n\u00e3o dispon\u00edvel para SKPI"
+        ],
+        [
+            "SKPP",
+            "GUILLERMO LEON VALENCIA",
+            "2.45417",
+            "-76.61",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPP\n\nTAF n\u00e3o dispon\u00edvel para SKPP"
+        ],
+        [
+            "SKPS",
+            "ANTONIO NARINO",
+            "1.39639",
+            "-77.2908",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPS\n\nTAF n\u00e3o dispon\u00edvel para SKPS"
+        ],
+        [
+            "SKPV",
+            "EL EMBRUJO",
+            "13.3569",
+            "-81.3583",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKPV\n\nTAF n\u00e3o dispon\u00edvel para SKPV"
+        ],
+        [
+            "SKQU",
+            "MARIQUITA",
+            "5.2125",
+            "-74.8836",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKQU\n\nTAF n\u00e3o dispon\u00edvel para SKQU"
+        ],
+        [
+            "SKRG",
+            "JOSE MARIA CORDOVA",
+            "6.16444",
+            "-75.4231",
+            "g",
+            "METAR SKRG 280500Z 00000KT 9999 VCSH SCT010 BKN080 15\/14 Q1026 REDZ NOSIG RMK VCSH\/S\/N A3032=\n\nTAF SKRG 271630Z 2718\/2818 09010KT 9999 SCT020 \nTEMPO 2719\/2722 DZ SCT020TCU \nBECMG 2800\/2802 VRB02KT BKN015 \nTEMPO 2803\/2807 DZ BKN010 \nTEMPO 2809\/2812 4000 BCFG BKN006 \nBECMG 2813\/2815 09010KT SCT020 TX23\/2719Z TN13\/2811Z="
+        ],
+        [
+            "SKRH",
+            "ALMIRANTE PADILLA",
+            "11.5261",
+            "-72.9258",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKRH\n\nTAF n\u00e3o dispon\u00edvel para SKRH"
+        ],
+        [
+            "SKSA",
+            "LOS COLONIZADORES",
+            "6.95806",
+            "-71.855",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKSA\n\nTAF n\u00e3o dispon\u00edvel para SKSA"
+        ],
+        [
+            "SKSJ",
+            "JORGE E GONZALEZ TORRES",
+            "2.57944",
+            "-72.6392",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKSJ\n\nTAF n\u00e3o dispon\u00edvel para SKSJ"
+        ],
+        [
+            "SKSM",
+            "SIMON BOLIVAR",
+            "11.1194",
+            "-74.2306",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKSM\n\nTAF n\u00e3o dispon\u00edvel para SKSM"
+        ],
+        [
+            "SKSP",
+            "GUSTAVO ROJAS PINILLA",
+            "12.5833",
+            "-81.7111",
+            "g",
+            "METAR SKSP 280500Z 11004KKT 060V170 9999 FEW016 28\/24 Q1012 RMK A2989=\n\nTAF SKSP 272230Z 2800\/2824 06010KT 9999 FEW017 \nTEMPO 2814\/2818 DZRA SCT015CB \nPROB40 2820\/2824 DZRA SCT015TCU TX31\/2818Z TN24\/2810Z="
+        ],
+        [
+            "SKSV",
+            "EDUARDO FALLA SOLANO",
+            "2.15194",
+            "-74.7661",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKSV\n\nTAF n\u00e3o dispon\u00edvel para SKSV"
+        ],
+        [
+            "SKTD",
+            "TRINIDAD",
+            "5.43028",
+            "-71.6581",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKTD\n\nTAF n\u00e3o dispon\u00edvel para SKTD"
+        ],
+        [
+            "SKTM",
+            "TAME",
+            "6.45083",
+            "-71.76",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKTM\n\nTAF n\u00e3o dispon\u00edvel para SKTM"
+        ],
+        [
+            "SKTU",
+            "GONZALO MEJIA",
+            "8.07444",
+            "-76.7411",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKTU\n\nTAF n\u00e3o dispon\u00edvel para SKTU"
+        ],
+        [
+            "SKUC",
+            "SANTIAGO PEREZ",
+            "7.06861",
+            "-70.7367",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKUC\n\nTAF n\u00e3o dispon\u00edvel para SKUC"
+        ],
+        [
+            "SKUL",
+            "FARFAN",
+            "4.08833",
+            "-76.235",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKUL\n\nTAF n\u00e3o dispon\u00edvel para SKUL"
+        ],
+        [
+            "SKVP",
+            "ALFONSO LOPEZ PUMAREJO",
+            "10.435",
+            "-73.2494",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKVP\n\nTAF n\u00e3o dispon\u00edvel para SKVP"
+        ],
+        [
+            "SKVV",
+            "VANGUARDIA",
+            "4.16778",
+            "-73.6136",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKVV\n\nTAF n\u00e3o dispon\u00edvel para SKVV"
+        ],
+        [
+            "SKYP",
+            "EL YOPAL",
+            "5.31889",
+            "-72.3839",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SKYP\n\nTAF n\u00e3o dispon\u00edvel para SKYP"
+        ],
+        [
+            "SLAP",
+            "APOLO",
+            "-14.7394",
+            "-68.4108",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLAP\n\nTAF n\u00e3o dispon\u00edvel para SLAP"
+        ],
+        [
+            "SLAS",
+            "ASCENSION DE GUARAYOS",
+            "-15.7192",
+            "-63.0922",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLAS\n\nTAF n\u00e3o dispon\u00edvel para SLAS"
+        ],
+        [
+            "SLBJ",
+            "BERMEJO",
+            "-22.7694",
+            "-64.315",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLBJ\n\nTAF n\u00e3o dispon\u00edvel para SLBJ"
+        ],
+        [
+            "SLCA",
+            "CAMIRI",
+            "-20.0069",
+            "-63.5275",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLCA\n\nTAF n\u00e3o dispon\u00edvel para SLCA"
+        ],
+        [
+            "SLCB",
+            "JORGE WILSTERMAN",
+            "-17.4208",
+            "-66.1769",
+            "g",
+            "METAR SLCB 280500Z 00000KT 9999 FEW036 BKN200 14\/04 Q1024=\n\nTAF SLCB 272200Z 2800\/2824 29010KT 9999 ST036 TX30\/2819Z TN09\/2811Z \nBECMG 2802\/2804 00000KT \nBECMG 2814\/2816 25010KT="
+        ],
+        [
+            "SLCH",
+            "CHIMORE",
+            "-16.99",
+            "-65.1414",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLCH\n\nTAF n\u00e3o dispon\u00edvel para SLCH"
+        ],
+        [
+            "SLCN",
+            "CHARANA",
+            "-17.5939",
+            "-69.4342",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLCN\n\nTAF n\u00e3o dispon\u00edvel para SLCN"
+        ],
+        [
+            "SLCO",
+            "CAPITAN ANIBAL ARAB",
+            "-11.0403",
+            "-68.7828",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLCO\n\nTAF SLCO 272200Z 2800\/2824 00000KT 8000 SCT017 BKN080 TX26\/2819Z TN16 \/2810Z \nBECMG 2814\/2817 20008KT SCT023 SCT080="
+        ],
+        [
+            "SLCP",
+            "CONCEPCION",
+            "-16.1433",
+            "-62.0258",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLCP\n\nTAF n\u00e3o dispon\u00edvel para SLCP"
+        ],
+        [
+            "SLGY",
+            "CAP DE AV EMILIO BELTRAN",
+            "-10.8217",
+            "-65.3458",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLGY\n\nTAF n\u00e3o dispon\u00edvel para SLGY"
+        ],
+        [
+            "SLJO",
+            "SAN JOAQUIN",
+            "-13.0528",
+            "-64.6617",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLJO\n\nTAF n\u00e3o dispon\u00edvel para SLJO"
+        ],
+        [
+            "SLLP",
+            "EL ALTO INTERNATIONAL",
+            "-16.5131",
+            "-68.1922",
+            "g",
+            "METAR SLLP 280500Z 26004KT 9999 FEW012 FEW017CB SCT070 BKN200 06\/M08 Q1038=\n\nTAF SLLP 271600Z 2718\/2818 34008KT 9999 FEW023 TX17\/2719Z TNM01\/2811Z \nTEMPO 2719\/2722 33015G25KT FEW027CB \nBECMG 2802\/2804 05005KT 3000E VCFG FEW003 \nPROB40 TEMPO 2804\/2808 8000 RAGS SCT010 FEW017CB BKN070 \nBECMG 2812\/2814 28007KT 9999 NSW FEW020="
+        ],
+        [
+            "SLMG",
+            "MAGDALENA",
+            "-13.2536",
+            "-64.0628",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLMG\n\nTAF n\u00e3o dispon\u00edvel para SLMG"
+        ],
+        [
+            "SLOR",
+            "JUAN MENDOZA",
+            "-17.9633",
+            "-67.0761",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLOR\n\nTAF SLOR 272200Z 2800\/2824 33004KT 9999 NSC TX19\/2819Z TNM02\/2811Z \nTEMPO 2818\/2821 27015G25KT="
+        ],
+        [
+            "SLPO",
+            "CAPITAN NICOLAS ROJAS",
+            "-19.5433",
+            "-65.7239",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLPO\n\nTAF n\u00e3o dispon\u00edvel para SLPO"
+        ],
+        [
+            "SLPS",
+            "CAP DE AV SALVADOR OGAYA G",
+            "-18.9753",
+            "-57.8206",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLPS\n\nTAF n\u00e3o dispon\u00edvel para SLPS"
+        ],
+        [
+            "SLRA",
+            "SAN RAMON",
+            "-13.2636",
+            "-64.6053",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLRA\n\nTAF n\u00e3o dispon\u00edvel para SLRA"
+        ],
+        [
+            "SLRB",
+            "ROBORE",
+            "-18.3281",
+            "-59.7661",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLRB\n\nTAF n\u00e3o dispon\u00edvel para SLRB"
+        ],
+        [
+            "SLRI",
+            "CAP DE AV SELIN ZEITUN LOPEZ",
+            "-11.0103",
+            "-66.0733",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLRI\n\nTAF n\u00e3o dispon\u00edvel para SLRI"
+        ],
+        [
+            "SLRQ",
+            "RURRENABAQUE",
+            "-14.4283",
+            "-67.5014",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLRQ\n\nTAF SLRQ 272200Z 2800\/2824 00000KT 9999 BKN015 OVC070 TX25\/2819Z TN18 \/2811Z \nTEMPO 2807\/2810 7000 RA \nTEMPO 2815\/2818 14006KT="
+        ],
+        [
+            "SLRY",
+            "REYES",
+            "-14.3061",
+            "-67.3536",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLRY\n\nTAF n\u00e3o dispon\u00edvel para SLRY"
+        ],
+        [
+            "SLSA",
+            "SANTA ANA DEL YACUMA",
+            "-13.7619",
+            "-65.435",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLSA\n\nTAF n\u00e3o dispon\u00edvel para SLSA"
+        ],
+        [
+            "SLSB",
+            "CAPITAN GERMAN QUIROGA G",
+            "-14.8575",
+            "-66.7375",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLSB\n\nTAF n\u00e3o dispon\u00edvel para SLSB"
+        ],
+        [
+            "SLSI",
+            "CAP AV JUAN COCHAMANIDIS SAUCEDO",
+            "-16.3844",
+            "-60.9628",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLSI\n\nTAF n\u00e3o dispon\u00edvel para SLSI"
+        ],
+        [
+            "SLSM",
+            "SAN IGNACIO DE MOXOS",
+            "-14.9656",
+            "-65.6336",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLSM\n\nTAF n\u00e3o dispon\u00edvel para SLSM"
+        ],
+        [
+            "SLSU",
+            "JUANA AZURDUY DE PADILLA",
+            "-19.0069",
+            "-65.2889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLSU\n\nTAF n\u00e3o dispon\u00edvel para SLSU"
+        ],
+        [
+            "SLTI",
+            "SAN MATIAS",
+            "-16.3386",
+            "-58.4017",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLTI\n\nTAF n\u00e3o dispon\u00edvel para SLTI"
+        ],
+        [
+            "SLTJ",
+            "CAPITAN ORIEL LEA PLAZA",
+            "-21.5556",
+            "-64.7008",
+            "gw",
+            "METAR SLTJ 280200Z 00000KT 9999 NSC 11\/01 Q1022=\n\nTAF SLTJ 272200Z 2800\/2824 00000KT 9999 NSC TX27\/2819Z TN04\/2811Z \nBECMG 2815\/2817 13010KT="
+        ],
+        [
+            "SLTR",
+            "TTE AV JORGE HENRICH ARAUZ",
+            "-14.8194",
+            "-64.9183",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SLTR\n\nTAF SLTR 272200Z 2800\/2824 00000KT 7000 FEW017 TX26\/2819Z TN14\/2810Z \nBECMG 2814\/2817 24005KT SCT017="
+        ],
+        [
+            "SLVR",
+            "VIRU VIRU INTERNATIONAL",
+            "-17.6447",
+            "-63.1353",
+            "g",
+            "METAR SLVR 280500Z 18008KT 9999 FEW025 SCT070 19\/13 Q1015=\n\nTAF SLVR 272200Z 2800\/2824 18007KT 9999 BKN025 BKN070 TX24\/2819Z TN16 \/2808Z \nPROB40 TEMPO 2813\/2816 VRB02KT 8000 RA SCT017 OVC070 \nBECMG 2820\/2822 18010KT SCT027 BKN070="
+        ],
+        [
+            "SMJP",
+            "JOHAN A PENGEL INTERNATIONAL",
+            "5.45278",
+            "-55.1878",
+            "g",
+            "METAR SMJP 280500Z 00000KT 9999 FEW018CB SCT025 25\/24 Q1011 NOSIG=\n\nTAF SMJP 272200Z 2800\/2824 10004KT CAVOK TX33\/2818Z TN23\/2809Z \nTEMPO 2809\/2811 VRB02KT 3000 BR FEW003 \nBECMG 2811\/2813 12007KT 9999 SCT020 \nBECMG 2821\/2823 10005KT CAVOK="
+        ],
+        [
+            "SMZO",
+            "ZORG EN HOOP",
+            "5.81083",
+            "-55.1906",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SMZO\n\nTAF SMZO 272200Z 2800\/2824 10005KT CAVOK TX34\/2818Z TN24\/2809Z \nBECMG 2811\/2813 12007KT 9999 SCT020 \nBECMG 2821\/2823 10005KT CAVOK="
+        ],
+        [
+            "SPAC",
+            "CIRO ALEGRIA",
+            "-4.6075",
+            "-77.9408",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPAC\n\nTAF n\u00e3o dispon\u00edvel para SPAC"
+        ],
+        [
+            "SPAS",
+            "ANDOAS",
+            "-2.795",
+            "-76.4661",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPAS\n\nTAF n\u00e3o dispon\u00edvel para SPAS"
+        ],
+        [
+            "SPAY",
+            "ATALAYA",
+            "-10.7289",
+            "-73.7664",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPAY\n\nTAF n\u00e3o dispon\u00edvel para SPAY"
+        ],
+        [
+            "SPBB",
+            "MOYOBAMBA",
+            "-6.01889",
+            "-76.9883",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPBB\n\nTAF n\u00e3o dispon\u00edvel para SPBB"
+        ],
+        [
+            "SPBC",
+            "CABALLOCOCHA",
+            "-3.91667",
+            "-70.5081",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPBC\n\nTAF n\u00e3o dispon\u00edvel para SPBC"
+        ],
+        [
+            "SPBR",
+            "IBERIA",
+            "-11.4114",
+            "-69.4886",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPBR\n\nTAF n\u00e3o dispon\u00edvel para SPBR"
+        ],
+        [
+            "SPCL",
+            "CAP FAP DAVID AVENZUR RENGIFO",
+            "-8.37778",
+            "-74.5742",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPCL\n\nTAF n\u00e3o dispon\u00edvel para SPCL"
+        ],
+        [
+            "SPEO",
+            "TENIENTE FAP JAIME A DE MONTR MORALES",
+            "-9.15083",
+            "-78.5236",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPEO\n\nTAF AMD SPEO 272000Z 2718\/2818 CNL="
+        ],
+        [
+            "SPEP",
+            "PUERTO ESPERANZA",
+            "-9.76806",
+            "-70.7064",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPEP\n\nTAF n\u00e3o dispon\u00edvel para SPEP"
+        ],
+        [
+            "SPEQ",
+            "CESAR TORQUE PODESTA",
+            "-17.1789",
+            "-70.9306",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPEQ\n\nTAF n\u00e3o dispon\u00edvel para SPEQ"
+        ],
+        [
+            "SPGM",
+            "TINGO MARIA",
+            "-9.29",
+            "-76.0058",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPGM\n\nTAF SPGM 271710Z 2718\/2818 17003KT 9999 SCT040 TX32\/2719Z TN19\/2811Z="
+        ],
+        [
+            "SPHI",
+            "CAPT JOSE ABELARDO QUINONES GONZALES",
+            "-6.78722",
+            "-79.8281",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPHI\n\nTAF AMD SPHI 271400Z 2714\/2812 18008KT 9999 BKN015 TX24\/2720Z TN16\/2811Z \nBECMG 2716\/2719 20018KT CAVOK="
+        ],
+        [
+            "SPHO",
+            "CORONEL FAP ALFREDO MENDIVIL DUARTE",
+            "-13.1547",
+            "-74.2042",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPHO\n\nTAF SPHO 271700Z 2718\/2818 11003KT 9999 SCT040 TX25\/2719Z TN13\/2811Z \nTEMPO 2719\/2723 15012KT SCT030TCU SCT070="
+        ],
+        [
+            "SPHY",
+            "ANDAHUAYLAS",
+            "-13.7064",
+            "-73.3503",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPHY\n\nTAF SPHY 271700Z 2718\/2818 36010KT 9999 FEW012 BKN070 TX15\/2719Z TN05\/2811Z \nBECMG 2722\/2724 02002KT="
+        ],
+        [
+            "SPHZ",
+            "COMMANDANTE FAP GERMAN ARIAS GRAZZIANI",
+            "-9.34722",
+            "-77.5983",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPHZ\n\nTAF n\u00e3o dispon\u00edvel para SPHZ"
+        ],
+        [
+            "SPIM",
+            "JORGE CHAVEZ INTERNATIONAL",
+            "-12.0217",
+            "-77.1142",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPIM\n\nTAF n\u00e3o dispon\u00edvel para SPIM"
+        ],
+        [
+            "SPJI",
+            "JUANJUI",
+            "-7.16944",
+            "-76.7278",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPJI\n\nTAF SPJI 271700Z 2718\/2818 12004KT 9999 FEW020 TX34\/2720Z TN20\/2811Z \nTEMPO 2811\/2815 03012KT 4000 RADZ BKN015 BKN080="
+        ],
+        [
+            "SPJJ",
+            "JAUJA",
+            "-11.7831",
+            "-75.4733",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPJJ\n\nTAF n\u00e3o dispon\u00edvel para SPJJ"
+        ],
+        [
+            "SPJL",
+            "JULIACA",
+            "-15.4669",
+            "-70.1581",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPJL\n\nTAF SPJL 271700Z 2718\/2818 28015KT 9999 BKN020 TX19\/2719Z TNM02\/2811Z FM280000 25005KT CAVOK="
+        ],
+        [
+            "SPJN",
+            "SAN JUAN DE MARCONA",
+            "-15.3575",
+            "-75.1356",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPJN\n\nTAF n\u00e3o dispon\u00edvel para SPJN"
+        ],
+        [
+            "SPJR",
+            "MAJ GEN FAP ARMANDO REVOREDO IGLESIAS",
+            "-7.13639",
+            "-78.49",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPJR\n\nTAF SPJR 271710Z 2718\/2818 10006KT 9999 SCT025 BKN046 TX20\/2719Z TN06\/2811Z \nBECMG 2816\/2818 17010KT="
+        ],
+        [
+            "SPLO",
+            "ILO",
+            "-17.695",
+            "-71.3439",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPLO\n\nTAF SPLO 271700Z 2718\/2818 17009KT 9999 BKN030 TX19\/2719Z TN13\/2811Z FM280000 12004KT 8000 OVC020 FM281600 16006KT 9999 BKN030="
+        ],
+        [
+            "SPLP",
+            "LAS PALMAS",
+            "-12.1606",
+            "-76.9989",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPLP\n\nTAF n\u00e3o dispon\u00edvel para SPLP"
+        ],
+        [
+            "SPME",
+            "PEDRO CANGA",
+            "-3.5525",
+            "-80.3808",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPME\n\nTAF SPME 271700Z 2718\/2818 35010KT 9999 BKN013 TX27\/2719Z TN20\/2811Z \nTEMPO 2718\/2721 SCT020 FM281200 VRB03KT 8000 OVC010="
+        ],
+        [
+            "SPMS",
+            "MOISES BENZAQUEN RENGIFO",
+            "-5.89389",
+            "-76.1183",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPMS\n\nTAF SPMS 271700Z 2718\/2818 04005KT 9999 FEW015 SCT080 TX34\/2720Z TN23\/2811Z \nTEMPO 2812\/2815 10012KT 3000 RA BKN010 BKN080="
+        ],
+        [
+            "SPNC",
+            "ALFEREZ FAP D F FERNANDINI",
+            "-9.87806",
+            "-76.2042",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPNC\n\nTAF SPNC 271710Z 2718\/2818 06015KT 9999 FEW040 TX30\/2719Z TN12\/2811Z \nBECMG 2723\/2801 06003KT \nBECMG 2816\/2818 08014KT="
+        ],
+        [
+            "SPOL",
+            "COLLIQUE",
+            "-11.9286",
+            "-77.0611",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPOL\n\nTAF n\u00e3o dispon\u00edvel para SPOL"
+        ],
+        [
+            "SPPY",
+            "CHACHAPOYAS",
+            "-6.20167",
+            "-77.8558",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPPY\n\nTAF n\u00e3o dispon\u00edvel para SPPY"
+        ],
+        [
+            "SPQT",
+            "CORONEL FAP FRANCISCO SECADA VIGNETTA",
+            "-3.78472",
+            "-73.3086",
+            "g",
+            "METAR SPQT 280500Z 05003KT 9999 FEW010 BKN080 23\/22 Q1011 NOSIG RMK PP000=\n\nTAF SPQT 272300Z 2800\/2824 VRB02KT 9999 SCT020 BKN080 TX31\/2820Z TN23\/2811Z \nTEMPO 2801\/2805 35015KT 2000 TSRA BKN010 FEW020CB BKN080 \nTEMPO 2805\/2810 4000 RADZ BKN010 FEW025CB BKN080 \nBECMG 2813\/2816 BKN012 BKN080 \nTEMPO 2818\/2822 02015KT 3000 SHRA BKN015 FEW025TCU BKN080="
+        ],
+        [
+            "SPQU",
+            "RODRIGUEZ BALLON",
+            "-16.3408",
+            "-71.5831",
+            "gw",
+            "METAR SPQU 280300Z 10005KT CAVOK 09\/M05 Q1027 RMK PP000=\n\nTAF SPQU 271700Z 2718\/2818 26010KT CAVOK TX21\/2719Z TN06\/2811Z FM280000 04007KT CAVOK TAF SPRU 271700Z 2718\/2818 16012KT 7000 OVC013 TX20\/2719Z TN17\/2811Z \nTEMPO 2718\/2721 9000 BKN020 \nBECMG 2722\/2801 5000 BR OVC012 FM281200 15010KT 4000 BR FEW004 OVC009="
+        ],
+        [
+            "SPRM",
+            "SAN RAMON",
+            "-11.1286",
+            "-75.3503",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPRM\n\nTAF n\u00e3o dispon\u00edvel para SPRM"
+        ],
+        [
+            "SPRU",
+            "CAPITAN CARLOS MARTINEZ DE PINILLOS",
+            "-8.08472",
+            "-79.1094",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPRU\n\nTAF SPRU 272300Z 2800\/2824 15008KT 5000 BR OVC010 TX18\/2819Z TN16\/2811Z FM281200 16010KT 4000 BR FEW003 OVC007 \nBECMG 2815\/2818 7000 NSW OVC015="
+        ],
+        [
+            "SPSO",
+            "PISCO",
+            "-13.7447",
+            "-76.2203",
+            "g",
+            "METAR SPSO 280500Z 05003KT 6000 NSC 14\/11 Q1015 RMK BR PP000=\n\nTAF SPSO 272300Z 2800\/2824 22008KT 8000 NSC TX21\/2819Z TN12\/2811Z \nBECMG 2809\/2811 4500 BR \nBECMG 2813\/2815 28007KT 7000 NSW \nBECMG 2819\/2821 22012KT="
+        ],
+        [
+            "SPST",
+            "TARAPOTO",
+            "-6.50861",
+            "-76.3731",
+            "gw",
+            "METAR SPST 280300Z 34003KT 9999 FEW025 26\/22 Q1010 RMK BIRD HAZARD RWY 17\/35 PP000=\n\nTAF AMD SPST 280412Z 2800\/2824 CNL="
+        ],
+        [
+            "SPTN",
+            "CORONEL FAP CARLOS CIRIANI SANTA ROSA",
+            "-18.0533",
+            "-70.2758",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPTN\n\nTAF AMD SPTN 272005Z 2718\/2818 CNL="
+        ],
+        [
+            "SPTP",
+            "EL PATO AB",
+            "-4.54972",
+            "-81.2239",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPTP\n\nTAF n\u00e3o dispon\u00edvel para SPTP"
+        ],
+        [
+            "SPTU",
+            "PADRE ALDAMIZ",
+            "-12.6136",
+            "-69.2289",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPTU\n\nTAF AMD SPTU 272104Z 2718\/2818 CNL="
+        ],
+        [
+            "SPUR",
+            "CAPITAN CONCHA",
+            "-5.20556",
+            "-80.6164",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPUR\n\nTAF n\u00e3o dispon\u00edvel para SPUR"
+        ],
+        [
+            "SPYL",
+            "CAPITAN MONTES",
+            "-4.57639",
+            "-81.2539",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPYL\n\nTAF AMD SPYL 272200Z 2718\/2818 CNL="
+        ],
+        [
+            "SPZA",
+            "NASCA",
+            "-14.8539",
+            "-74.9614",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SPZA\n\nTAF n\u00e3o dispon\u00edvel para SPZA"
+        ],
+        [
+            "SPZO",
+            "VELAZCO ASTETE",
+            "-13.5356",
+            "-71.9386",
+            "gw",
+            "METAR SPZO 280200Z 28005KT 9999 NSC 12\/01 Q1030 NOSIG RMK BIRD HAZARD RWY 28 PP000=\n\nTAF SPZO 272300Z 2800\/2824 32010KT 9999 FEW050 TX22\/2819Z TN04\/2811Z \nBECMG 2801\/2803 28002KT \nBECMG 2816\/2818 33010KT \nTEMPO 2818\/2821 28015G25KT="
+        ],
+        [
+            "SUAA",
+            "ANGEL S ADAMI",
+            "-34.7892",
+            "-56.2644",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUAA\n\nTAF n\u00e3o dispon\u00edvel para SUAA"
+        ],
+        [
+            "SUAG",
+            "ARTIGAS INTERNATIONAL",
+            "-30.4006",
+            "-56.5078",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUAG\n\nTAF n\u00e3o dispon\u00edvel para SUAG"
+        ],
+        [
+            "SUCA",
+            "LAGUNA DE LOS PATOS INTERNATIONAL",
+            "-34.4564",
+            "-57.7706",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUCA\n\nTAF SUCA 272330Z 2800\/2824 04012KT CAVOK TX18\/2818Z TN07\/2810Z="
+        ],
+        [
+            "SUDU",
+            "SANTA BERNARDINA INTERNATIONAL",
+            "-33.3586",
+            "-56.4992",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUDU\n\nTAF SUDU 272330Z 2800\/2824 07005KT CAVOK TX22\/2818Z TN05\/2810Z \nTEMPO 2806\/2811 3000 BR NSC \nTEMPO 2809\/2811 0800 BCFG NSC="
+        ],
+        [
+            "SULS",
+            "CAPITAN CORBETA C A CURBELO INTERNATIONAL",
+            "-34.855",
+            "-55.0942",
+            "g",
+            "METAR SULS 280500Z 06005KT CAVOK 07\/05 Q1024=\n\nTAF SULS 272330Z 2800\/2824 08005KT CAVOK TX17\/2818Z TN05\/2810Z \nTEMPO 2802\/2811 3000 BR NSC="
+        ],
+        [
+            "SUMO",
+            "CERRO LARGO",
+            "-32.3378",
+            "-54.2167",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUMO\n\nTAF n\u00e3o dispon\u00edvel para SUMO"
+        ],
+        [
+            "SUMU",
+            "CARRASCO INTERNATIONAL",
+            "-34.8378",
+            "-56.0303",
+            "g",
+            "METAR SUMU 280500Z 07002KT CAVOK 07\/03 Q1024 NOSIG=\n\nTAF SUMU 272330Z 2800\/2824 08005KT CAVOK TX17\/2818Z TN06\/2810Z \nTEMPO 2802\/2811 3000 BR NSC="
+        ],
+        [
+            "SUPE",
+            "EL JAGUEL INTERNATIONAL",
+            "-34.9136",
+            "-54.9206",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUPE\n\nTAF n\u00e3o dispon\u00edvel para SUPE"
+        ],
+        [
+            "SUPU",
+            "TYDEO LARRE BORGES INTERNATIONAL",
+            "-32.365",
+            "-58.0611",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUPU\n\nTAF n\u00e3o dispon\u00edvel para SUPU"
+        ],
+        [
+            "SURV",
+            "RIVERA INTERNATIONAL",
+            "-30.9744",
+            "-55.4761",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SURV\n\nTAF SURV 272330Z 2800\/2824 07005KT CAVOK TX22\/2818Z TN06\/2810Z \nTEMPO 2806\/2811 3000 BR NSC="
+        ],
+        [
+            "SUSO",
+            "NUEVA HESPERIDES INTERNATIONAL",
+            "-31.4397",
+            "-57.9906",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUSO\n\nTAF SUSO 272330Z 2800\/2824 05005KT CAVOK TX24\/2818Z TN05\/2810Z \nTEMPO 2808\/2811 3000 BR NSC="
+        ],
+        [
+            "SUTB",
+            "TACUAREMBO",
+            "-31.7489",
+            "-55.9256",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SUTB\n\nTAF n\u00e3o dispon\u00edvel para SUTB"
+        ],
+        [
+            "SVAC",
+            "OSWALDO GUEVARA MUJICA",
+            "9.55333",
+            "-69.2378",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVAC\n\nTAF n\u00e3o dispon\u00edvel para SVAC"
+        ],
+        [
+            "SVAN",
+            "ANACO",
+            "9.42917",
+            "-64.4708",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVAN\n\nTAF n\u00e3o dispon\u00edvel para SVAN"
+        ],
+        [
+            "SVAT",
+            "SAN FERNANDO DE ATABAPO",
+            "4.05167",
+            "-67.7008",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVAT\n\nTAF n\u00e3o dispon\u00edvel para SVAT"
+        ],
+        [
+            "SVBC",
+            "GENERAL JOSE ANTONIO ANZOATEGUI INTERNATIONAL",
+            "10.1069",
+            "-64.6889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVBC\n\nTAF n\u00e3o dispon\u00edvel para SVBC"
+        ],
+        [
+            "SVBI",
+            "BARINAS",
+            "8.61944",
+            "-70.2206",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVBI\n\nTAF n\u00e3o dispon\u00edvel para SVBI"
+        ],
+        [
+            "SVBL",
+            "EL LIBERTADOR AB",
+            "10.1833",
+            "-67.5572",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVBL\n\nTAF n\u00e3o dispon\u00edvel para SVBL"
+        ],
+        [
+            "SVBM",
+            "BARQUISIMETO INTERNATIONAL",
+            "10.0425",
+            "-69.3583",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVBM\n\nTAF n\u00e3o dispon\u00edvel para SVBM"
+        ],
+        [
+            "SVBS",
+            "MARISCAL SUCRE",
+            "10.2497",
+            "-67.6492",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVBS\n\nTAF n\u00e3o dispon\u00edvel para SVBS"
+        ],
+        [
+            "SVCB",
+            "CIUDAD BOLIVAR",
+            "8.12194",
+            "-63.5369",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCB\n\nTAF n\u00e3o dispon\u00edvel para SVCB"
+        ],
+        [
+            "SVCD",
+            "CAICARA DE ORINOCO",
+            "7.62583",
+            "-66.1647",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCD\n\nTAF n\u00e3o dispon\u00edvel para SVCD"
+        ],
+        [
+            "SVCJ",
+            "SAN CARLOS",
+            "9.64889",
+            "-68.5753",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCJ\n\nTAF n\u00e3o dispon\u00edvel para SVCJ"
+        ],
+        [
+            "SVCL",
+            "CALABOZO",
+            "8.92444",
+            "-67.4169",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCL\n\nTAF n\u00e3o dispon\u00edvel para SVCL"
+        ],
+        [
+            "SVCN",
+            "CANAIMA",
+            "6.23194",
+            "-62.8542",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCN\n\nTAF n\u00e3o dispon\u00edvel para SVCN"
+        ],
+        [
+            "SVCO",
+            "CARORA",
+            "10.1756",
+            "-70.065",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCO\n\nTAF n\u00e3o dispon\u00edvel para SVCO"
+        ],
+        [
+            "SVCP",
+            "GENERAL JOSE FRANCISCO BERMUDEZ",
+            "10.66",
+            "-63.2617",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCP\n\nTAF n\u00e3o dispon\u00edvel para SVCP"
+        ],
+        [
+            "SVCR",
+            "JOSE LEONARDO CHIRINOS",
+            "11.4147",
+            "-69.6808",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCR\n\nTAF n\u00e3o dispon\u00edvel para SVCR"
+        ],
+        [
+            "SVCS",
+            "OSCAR MACHADO ZULOAGA",
+            "10.2861",
+            "-66.8158",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCS\n\nTAF n\u00e3o dispon\u00edvel para SVCS"
+        ],
+        [
+            "SVCU",
+            "ANTONIO JOSE DE SUCRE",
+            "10.4503",
+            "-64.1303",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCU\n\nTAF n\u00e3o dispon\u00edvel para SVCU"
+        ],
+        [
+            "SVCZ",
+            "CAPITAN MANUEL RIOS GUARICO AIRBASE",
+            "9.37194",
+            "-66.9228",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVCZ\n\nTAF n\u00e3o dispon\u00edvel para SVCZ"
+        ],
+        [
+            "SVED",
+            "EL DORADO",
+            "6.715",
+            "-61.6389",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVED\n\nTAF n\u00e3o dispon\u00edvel para SVED"
+        ],
+        [
+            "SVEZ",
+            "ELORZA",
+            "7.05972",
+            "-69.4967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVEZ\n\nTAF n\u00e3o dispon\u00edvel para SVEZ"
+        ],
+        [
+            "SVGD",
+            "GUASDUALITO",
+            "7.21083",
+            "-70.7564",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVGD\n\nTAF n\u00e3o dispon\u00edvel para SVGD"
+        ],
+        [
+            "SVGI",
+            "GUIRIA",
+            "10.5739",
+            "-62.3125",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVGI\n\nTAF n\u00e3o dispon\u00edvel para SVGI"
+        ],
+        [
+            "SVGU",
+            "GUANARE",
+            "9.02694",
+            "-69.755",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVGU\n\nTAF n\u00e3o dispon\u00edvel para SVGU"
+        ],
+        [
+            "SVHG",
+            "HIGUEROTE",
+            "10.4622",
+            "-66.0925",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVHG\n\nTAF n\u00e3o dispon\u00edvel para SVHG"
+        ],
+        [
+            "SVIE",
+            "ANDRES MIGUEL SALAZAR MARCANO",
+            "10.7942",
+            "-63.9814",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVIE\n\nTAF n\u00e3o dispon\u00edvel para SVIE"
+        ],
+        [
+            "SVJC",
+            "JOSEFA CAMEJO",
+            "11.7808",
+            "-70.1517",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVJC\n\nTAF n\u00e3o dispon\u00edvel para SVJC"
+        ],
+        [
+            "SVJM",
+            "SAN JUAN DE LOS MORROS",
+            "9.90694",
+            "-67.3794",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVJM\n\nTAF n\u00e3o dispon\u00edvel para SVJM"
+        ],
+        [
+            "SVLF",
+            "LA FRIA",
+            "8.23917",
+            "-72.2708",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVLF\n\nTAF n\u00e3o dispon\u00edvel para SVLF"
+        ],
+        [
+            "SVLO",
+            "LA ORCHILA",
+            "11.8086",
+            "-66.1792",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVLO\n\nTAF n\u00e3o dispon\u00edvel para SVLO"
+        ],
+        [
+            "SVMC",
+            "LA CHINITA INTERNATIONAL",
+            "10.5581",
+            "-71.7278",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVMC\n\nTAF n\u00e3o dispon\u00edvel para SVMC"
+        ],
+        [
+            "SVMD",
+            "ALBERTO CARNEVALLI",
+            "8.58194",
+            "-71.1608",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVMD\n\nTAF n\u00e3o dispon\u00edvel para SVMD"
+        ],
+        [
+            "SVMG",
+            "DEL CARIBE INTERNATIONAL GEN SANTAGO MARINO",
+            "10.9125",
+            "-63.9664",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVMG\n\nTAF n\u00e3o dispon\u00edvel para SVMG"
+        ],
+        [
+            "SVMI",
+            "SIMON BOLIVAR INTERNATIONAL",
+            "10.6031",
+            "-66.9906",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVMI\n\nTAF n\u00e3o dispon\u00edvel para SVMI"
+        ],
+        [
+            "SVMT",
+            "MATURIN",
+            "9.74917",
+            "-63.1522",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVMT\n\nTAF n\u00e3o dispon\u00edvel para SVMT"
+        ],
+        [
+            "SVPA",
+            "CASIQUE ARAMARE",
+            "5.61972",
+            "-67.6058",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVPA\n\nTAF n\u00e3o dispon\u00edvel para SVPA"
+        ],
+        [
+            "SVPC",
+            "GENERAL BARTOLOME SALOM INTERNATIONAL",
+            "10.4803",
+            "-68.0728",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVPC\n\nTAF n\u00e3o dispon\u00edvel para SVPC"
+        ],
+        [
+            "SVPM",
+            "PARAMILLO",
+            "7.80111",
+            "-72.2028",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVPM\n\nTAF n\u00e3o dispon\u00edvel para SVPM"
+        ],
+        [
+            "SVPR",
+            "GENERAL MANUEL CARLOS PIAR",
+            "8.28833",
+            "-62.7603",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVPR\n\nTAF n\u00e3o dispon\u00edvel para SVPR"
+        ],
+        [
+            "SVPT",
+            "PALMARITO",
+            "7.57556",
+            "-70.1742",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVPT\n\nTAF n\u00e3o dispon\u00edvel para SVPT"
+        ],
+        [
+            "SVSA",
+            "SAN ANTONIO DEL TACHIRA",
+            "7.85222",
+            "-72.4347",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSA\n\nTAF n\u00e3o dispon\u00edvel para SVSA"
+        ],
+        [
+            "SVSB",
+            "SANTA BARBARA DE BARINAS",
+            "7.80333",
+            "-71.1656",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSB\n\nTAF n\u00e3o dispon\u00edvel para SVSB"
+        ],
+        [
+            "SVSO",
+            "MAYOR BUENAVENTURA VIVAS",
+            "7.565",
+            "-72.035",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSO\n\nTAF n\u00e3o dispon\u00edvel para SVSO"
+        ],
+        [
+            "SVSP",
+            "SUB TENIENTE NESTOR ARIAS",
+            "10.2786",
+            "-68.755",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSP\n\nTAF n\u00e3o dispon\u00edvel para SVSP"
+        ],
+        [
+            "SVSR",
+            "SAN FERNANDO DE APURE",
+            "7.8825",
+            "-67.4436",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSR\n\nTAF n\u00e3o dispon\u00edvel para SVSR"
+        ],
+        [
+            "SVST",
+            "SAN TOME",
+            "8.945",
+            "-64.1508",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVST\n\nTAF n\u00e3o dispon\u00edvel para SVST"
+        ],
+        [
+            "SVSZ",
+            "SANTA BARBARA DEL ZULIA",
+            "8.97444",
+            "-71.9431",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVSZ\n\nTAF n\u00e3o dispon\u00edvel para SVSZ"
+        ],
+        [
+            "SVTC",
+            "TUCUPITA",
+            "9.08889",
+            "-62.0942",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVTC\n\nTAF n\u00e3o dispon\u00edvel para SVTC"
+        ],
+        [
+            "SVTM",
+            "TUMEREMO",
+            "7.24917",
+            "-61.5289",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVTM\n\nTAF n\u00e3o dispon\u00edvel para SVTM"
+        ],
+        [
+            "SVVA",
+            "ARTURO MICHELENA INTERNATIONAL",
+            "10.1581",
+            "-67.9267",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVVA\n\nTAF SVVA 271700Z 2718\/2818 09005KT 9999 BKN016 TX33\/2718Z TN21\/2810 \nTEMPO 2820\/2800 14002KT BKN016 \nTEMPO 2802\/2806 07003KT FEW016 BKN250="
+        ],
+        [
+            "SVVG",
+            "JUAN PABLO PEREZ ALFONSO",
+            "8.62417",
+            "-71.6728",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVVG\n\nTAF n\u00e3o dispon\u00edvel para SVVG"
+        ],
+        [
+            "SVVL",
+            "DR ANTONIO NICOLAS BRICENO",
+            "9.34056",
+            "-70.5839",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVVL\n\nTAF n\u00e3o dispon\u00edvel para SVVL"
+        ],
+        [
+            "SVVP",
+            "VALLE DE LA PASCUA",
+            "9.22194",
+            "-65.9933",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SVVP\n\nTAF n\u00e3o dispon\u00edvel para SVVP"
+        ],
+        [
+            "SYKM",
+            "KAMARANG",
+            "5.86528",
+            "-60.6142",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SYKM\n\nTAF n\u00e3o dispon\u00edvel para SYKM"
+        ],
+        [
+            "SYLD",
+            "LINDEN",
+            "5.96583",
+            "-58.2703",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SYLD\n\nTAF n\u00e3o dispon\u00edvel para SYLD"
+        ],
+        [
+            "SYLT",
+            "LETHEM",
+            "3.3725",
+            "-59.7892",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SYLT\n\nTAF n\u00e3o dispon\u00edvel para SYLT"
+        ],
+        [
+            "SDAG",
+            "Aeroporto de Angra dos Reis",
+            "-22.9753",
+            "-44.3072",
+            "g",
+            "METAR SDAG 280500Z AUTO 00000KT 9000 FEW007 SCT014 OVC026 20\/19 Q1021=\n\nTAF n\u00e3o dispon\u00edvel para SDAG"
+        ],
+        [
+            "SBCZ",
+            "Aeroporto Internacional de Cruzeiro do Sul",
+            "-7.6",
+            "-72.7694",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCZ\n\nTAF SBCZ 272119Z 2800\/2824 03005KT 7000 SCT030 TN29\/2814Z TX37\/2818Z \nPROB40 TEMPO 2803\/2806 4000 TSRA BKN025 FEW030CB \nBECMG 2809\/2811 15005KT \nBECMG 2822\/2824 21005KT RMK PHQ="
+        ],
+        [
+            "SBFI",
+            "Aeroporto Internacional Cataratas",
+            "-25.5961",
+            "-54.4869",
+            "g",
+            "METAR SBFI 280500Z 13004KT CAVOK 14\/14 Q1019=\n\nTAF SBFI 272100Z 2800\/2824 10005KT CAVOK TN16\/2809Z TX22\/2818Z \nPROB40 2808\/2810 5000 BR SCT010 \nBECMG 2810\/2812 9999 SCT025 \nBECMG 2816\/2818 FEW030 \nBECMG 2820\/2822 CAVOK RMK PDW="
+        ],
+        [
+            "SBCT",
+            "Aeroporto Internacional Afonso Pena",
+            "-25.5283",
+            "-49.1756",
+            "r",
+            "METAR SBCT 280500Z 09010KT 5000 -DZ BR OVC003 12\/11 Q1024=\n\nTAF SBCT 272100Z 2800\/2824 11008KT 8000 BKN005 TN11\/2808Z TX14\/2815Z \nPROB40 TEMPO 2806\/2812 4000 RADZ BR BKN003 OVC005 \nBECMG 2812\/2814 SCT005 BKN010 \nPROB40 TEMPO 2815\/2824 5000 RA BR BKN005 OVC010 RMK PDW="
+        ],
+        [
+            "SBCR",
+            "Aeroporto Internacional de Corumb\u00e1",
+            "-19.0117",
+            "-57.6728",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCR\n\nTAF SBCR 272200Z 2800\/2824 20010KT 8000 NSC TN16\/2808Z TX28\/2818Z \nPROB30 2803\/2807 RA BKN020 \nPROB40 2812\/2824 4000 HZ RMK PGG="
+        ],
+        [
+            "SBCG",
+            "Aeroporto Internacional de Campo Grande",
+            "-20.4686",
+            "-54.6725",
+            "g",
+            "METAR SBCG 280500Z 10007KT 9000 -TSRA BKN040 FEW045CB BKN100 17\/16 Q1018 RERA=\n\nTAF SBCG 272200Z 2800\/2824 14010KT 9999 SCT040 TN16\/2810Z TX29\/2818Z \nPROB30 2800\/2806 7000 TSRA BKN030 FEW040CB \nPROB30 2820\/2824 7000 TSRA BKN030 FEW040CB RMK PGG="
+        ],
+        [
+            "SBGO",
+            "Aeroporto Santa Genoveva Goi\u00e2nia",
+            "-16.6311",
+            "-49.2222",
+            "g",
+            "METAR SBGO 280500Z 13002KT CAVOK 25\/10 Q1016=\n\nTAF SBGO 272200Z 2800\/2824 11007KT CAVOK TN20\/2810Z TX35\/2819Z RMK PGG="
+        ],
+        [
+            "SBBE",
+            "Aeroporto Val de C\u00e3es",
+            "-1.37917",
+            "-48.4761",
+            "g",
+            "METAR SBBE 280500Z 05004KT 8000 NSC 24\/23 Q1010=\n\nTAF SBBE 272119Z 2800\/2824 36010KT 9999 SCT025 FEW035TCU TN24\/2809Z TX31\/2816Z \nBECMG 2800\/2802 06007KT CAVOK \nBECMG 2816\/2818 36010KT SCT025 FEW035TCU \nPROB40 TEMPO 2818\/2821 09010KT 5000 SHRA RMK PHQ="
+        ],
+        [
+            "SBMQ",
+            "Aeroporto Internacional de Macap\u00e1",
+            "0.0505556",
+            "-51.0719",
+            "g",
+            "METAR SBMQ 280500Z 36003KT 9999 SCT015 28\/26 Q1010=\n\nTAF SBMQ 272119Z 2800\/2824 08010KT 9999 BKN020 FEW030TCU TN26\/2809Z TX34\/2818Z \nBECMG 2802\/2804 36005KT FEW015 \nBECMG 2810\/2812 07010KT RMK PHQ="
+        ],
+        [
+            "SBSN",
+            "Aeroporto Internacional de Santar\u00e9m \u2014 Maestro Wilson Fonseca",
+            "-2.4225",
+            "-54.7928",
+            "g",
+            "METAR SBSN 280500Z 17004KT 9999 SCT013 25\/25 Q1010=\n\nTAF SBSN 272119Z 2800\/2824 12008KT 9999 SCT015 TN25\/2810Z TX31\/2819Z \nPROB30 2800\/2803 TS SCT015 FEW020CB \nTEMPO 2808\/2812 4000 TSRA BKN015 FEW020CB \nBECMG 2815\/2817 TS SCT017 FEW020CB \nBECMG 2818\/2820 NSW SCT017 RMK PHQ="
+        ],
+        [
+            "SBSL",
+            "Aeroporto Internacional Marechal Hugo da Cunha Machado",
+            "-2.58861",
+            "-44.2364",
+            "g",
+            "METAR SBSL 280500Z 07012KT CAVOK 27\/22 Q1010=\n\nTAF SBSL 272030Z 2800\/2824 04010KT 9999 SCT020 FEW030TCU TN26\/2809Z TX33\/2816Z \nBECMG 2802\/2804 CAVOK \nBECMG 2804\/2806 07010KT \nBECMG 2808\/2810 SCT020 \nBECMG 2810\/2812 BKN020 \nBECMG 2816\/2818 BKN025 FEW035TCU \nTEMPO 2818\/2821 07015KT 8000 TSRA BKN020 FEW030CB \nBECMG 2822\/2824 04010KT SCT020 FEW030TCU RMK PGS="
+        ],
+        [
+            "SBJI",
+            "Aeroporto de Ji-Paran\u00e1 \/ Jos\u00e9 Coleto",
+            "-10.8703",
+            "-61.8461",
+            "g",
+            "METAR SBJI 280500Z AUTO 20007KT CAVOK 23\/20 Q1012=\n\nTAF SBJI 271557Z 2718\/2806 20005KT 5000 FU NSC TX33\/2718Z TN24\/2806Z RMK PHQ="
+        ],
+        [
+            "SBPV",
+            "Aeroporto Internacional de Porto Velho \u2014 Governador Jorge Teixeira de Oliveira",
+            "-8.70917",
+            "-63.9022",
+            "g",
+            "METAR SBPV 280500Z 22002KT 6000 FEW040 26\/23 Q1010=\n\nTAF SBPV 272119Z 2800\/2824 20005KT 7000 NSC TN24\/2810Z TX36\/2819Z \nBECMG 2803\/2805 00000KT 3000 FU \nBECMG 2811\/2813 21007KT 7000 NSW \nBECMG 2815\/2817 4000 TSRA SCT040 FEW045CB \nBECMG 2818\/2820 7000 NSW SCT040 FEW045TCU RMK PHQ="
+        ],
+        [
+            "SBME",
+            "Aeroporto de Maca\u00e9",
+            "-22.3425",
+            "-41.7656",
+            "g",
+            "METAR SBME 280500Z 33002KT CAVOK 19\/19 Q1021=\n\nTAF SBME 272030Z 2800\/2812 24010KT 8000 BKN020 TN18\/2809Z TX23\/2812Z \nTEMPO 2800\/2803 24015KT 8000 SCT015 BKN020 \nBECMG 2804\/2806 27010KT SCT012 BKN020 \nTEMPO 2806\/2812 24010KT 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBJR",
+            "Aeroporto de Jacarepagu\u00e1",
+            "-22.9867",
+            "-43.3719",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJR\n\nTAF SBJR 272030Z 2800\/2812 24015KT 8000 BKN020 TN20\/2809Z TX22\/2812Z \nTEMPO 2800\/2803 21015KT 6000 RA SCT012 BKN020 \nBECMG 2804\/2806 17010KT SCT012 BKN020 \nTEMPO 2806\/2812 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBJF",
+            "Aeroporto de Juiz de Fora - Francisco \u00c1lvares de Assis",
+            "-21.7914",
+            "-43.3867",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJF\n\nTAF n\u00e3o dispon\u00edvel para SBJF"
+        ],
+        [
+            "SNHS",
+            "Aeroporto de Serra Talhada",
+            "-8.06139",
+            "-38.3286",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SNHS\n\nTAF n\u00e3o dispon\u00edvel para SNHS"
+        ],
+        [
+            "SBPP",
+            "Aeroporto Internacional de Ponta Por\u00e3",
+            "-22.5494",
+            "-55.7025",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPP\n\nTAF SBPP 272200Z 2800\/2824 05007KT 0300 FG OVC001 TN14\/2810Z TX16\/2817Z \nBECMG 2812\/2814 2000 RA BR BKN005 \nBECMG 2820\/2822 6000 NSW SCT006 BKN014 RMK PGG="
+        ],
+        [
+            "SBKP",
+            "Aeroporto Internacional de Viracopos \/ Campinas",
+            "-23.0081",
+            "-47.1344",
+            "g",
+            "METAR SBKP 280500Z 12016KT 9999 FEW020 SCT100 17\/14 Q1021=\n\nTAF SBKP 272000Z 2800\/2824 13015KT 9999 SCT040 TN17\/2809Z TX26\/2818Z \nBECMG 2803\/2805 BKN020 \nBECMG 2812\/2814 SCT030 \nBECMG 2819\/2821 FEW040 RMK PGF="
+        ],
+        [
+            "SBBP",
+            "Aeroporto Estadual Arthur Siqueira",
+            "-22.9792",
+            "-46.5375",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBBP\n\nTAF SBBP 272000Z 2800\/2812 15010KT 8000 BKN015 TX18\/2800Z TN15\/2809Z \nPROB30 2809\/2812 5000 BR BKN010 RMK PGF="
+        ],
+        [
+            "SBAX",
+            "Aeroporto de Arax\u00e1",
+            "-19.5597",
+            "-46.965",
+            "g",
+            "METAR SBAX 280500Z AUTO 10009KT CAVOK 20\/12 Q1020=\n\nTAF SBAX 272200Z 2800\/2812 12004KT CAVOK TX23\/2800Z TN20\/2808Z \nBECMG 2806\/2808 12010KT RMK PGQ="
+        ],
+        [
+            "SBAQ",
+            "Aeroporto de Araraquara",
+            "-21.8119",
+            "-48.1328",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBAQ\n\nTAF n\u00e3o dispon\u00edvel para SBAQ"
+        ],
+        [
+            "SBJD",
+            "Aeroporto Estadual de Jundia\u00ed \/ Comandante Rolim Adolfo Amaro",
+            "-23.1817",
+            "-46.9436",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJD\n\nTAF SBJD 272000Z 2800\/2812 14015KT 9999 BKN015 TX17\/2800Z TN15\/2809Z RMK PGF="
+        ],
+        [
+            "SBPK",
+            "Aeroporto de Pelotas",
+            "-31.7183",
+            "-52.3275",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPK\n\nTAF SBPK 271500Z 2718\/2818 26005KT CAVOK TN06\/2808Z TX16\/2817Z \nPROB40 2806\/2812 2000 BCFG BKN005 \nBECMG 2812\/2814 09007KT 9999 BKN020 \nBECMG 2814\/2816 SCT030 RMK PDW="
+        ],
+        [
+            "SBPA",
+            "Aeroporto Internacional Salgado Filho",
+            "-29.9942",
+            "-51.1714",
+            "g",
+            "METAR SBPA 280500Z 10005KT CAVOK 12\/11 Q1023=\n\nTAF SBPA 272100Z 2800\/2824 12005KT 8000 NSC TN10\/2808Z TX21\/2818Z \nBECMG 2803\/2805 5000 BR NSC \nBECMG 2806\/2808 4000 BR BKN005 \nTEMPO 2808\/2812 0600 FG BKN002 \nBECMG 2812\/2814 8000 SCT010 \nBECMG 2814\/2816 9999 NSW FEW030 \nBECMG 2818\/2820 12010KT CAVOK RMK PDW="
+        ],
+        [
+            "SBBU",
+            "Aer\u00f3dromo de Bauru",
+            "-22.345",
+            "-49.0536",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBBU\n\nTAF SBBU 272000Z 2800\/2812 13015KT CAVOK TX20\/2800Z TN17\/2809Z RMK PGF="
+        ],
+        [
+            "SBJE",
+            "O Aeroporto Regional Comandante Ariston Pessoa",
+            "-2.90667",
+            "-40.3581",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJE\n\nTAF SBJE 272030Z 2800\/2812 12015KT CAVOK TN24\/2809Z TX29\/2812Z \nBECMG 2804\/2806 12010KT FEW020 \nBECMG 2810\/2812 12015KT RMK PGS="
+        ],
+        [
+            "SBLP",
+            "Aeroporto de Bom Jesus da Lapa",
+            "-13.2619",
+            "-43.4081",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBLP\n\nTAF n\u00e3o dispon\u00edvel para SBLP"
+        ],
+        [
+            "SBBG",
+            "Aeroporto Comandante Gustavo Kraemer",
+            "-31.3903",
+            "-54.1122",
+            "g",
+            "METAR SBBG 280500Z AUTO 06003KT 040V110 CAVOK 06\/05 Q1023=\n\nTAF SBBG 272100Z 2800\/2812 08007KT CAVOK TX09\/2800Z TN04\/2809Z RMK PDW="
+        ],
+        [
+            "SBJP",
+            "Aeroporto Internacional Presidente Castro Pinto",
+            "-7.14622",
+            "-34.9514",
+            "g",
+            "METAR SBJP 280500Z 18004KT 9999 FEW020 22\/21 Q1015=\n\nTAF SBJP 272030Z 2800\/2824 17010KT 9999 SCT025 TN22\/2808Z TX29\/2816Z \nBECMG 2801\/2803 FEW020 \nBECMG 2806\/2808 SCT020 \nBECMG 2810\/2812 14015KT 8000 BKN020 \nBECMG 2816\/2818 9999 SCT025 \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 17010KT SCT025 RMK PGS="
+        ],
+        [
+            "SBAR",
+            "Aeroporto de Santa Maria",
+            "-10.9839",
+            "-37.0703",
+            "g",
+            "METAR SBAR 280500Z 08011KT 9999 FEW019 25\/21 Q1016=\n\nTAF SBAR 272030Z 2800\/2824 10010KT 9999 SCT020 TN23\/2808Z TX28\/2816Z \nBECMG 2801\/2803 FEW020 \nBECMG 2806\/2808 SCT020 \nBECMG 2810\/2812 SCT025 \nBECMG 2816\/2818 10015KT \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 10010KT SCT020 RMK PGS="
+        ],
+        [
+            "SBSG",
+            "Aeroporto Internacional de Natal \u2014 Governador Alu\u00edzio Alves",
+            "-5.77",
+            "-35.37",
+            "g",
+            "METAR SBSG 280500Z 24004KT 9999 FEW020 21\/20 Q1014=\n\nTAF SBSG 272030Z 2800\/2824 17010KT 9999 SCT020 TN22\/2808Z TX30\/2816Z \nBECMG 2801\/2803 21010KT \nBECMG 2804\/2806 24010KT \nTEMPO 2806\/2810 8000 SCT012 BKN020 \nBECMG 2810\/2812 21010KT \nBECMG 2813\/2815 17020KT SCT025 \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 17010KT SCT020 RMK PGS="
+        ],
+        [
+            "SBRF",
+            "Aeroporto Internacional do Recife\/Guararapes - Gilberto Freyre",
+            "-8.12639",
+            "-34.9233",
+            "g",
+            "METAR SBRF 280500Z 10007KT 9999 SCT020 BKN050 25\/19 Q1015=\n\nTAF SBRF 272030Z 2800\/2824 13010KT 9999 SCT020 TN23\/2808Z TX28\/2816Z \nTEMPO 2806\/2810 8000 SCT015 FEW025TCU \nBECMG 2813\/2815 13015KT \nBECMG 2816\/2818 SCT025 \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 13010KT SCT020 RMK PGS="
+        ],
+        [
+            "SBAC",
+            "Aeroporto Drag\u00e3o do Mar",
+            "-4.56861",
+            "-37.8047",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBAC\n\nTAF n\u00e3o dispon\u00edvel para SBAC"
+        ],
+        [
+            "SBMO",
+            "Aeroporto Internacional Zumbi dos Palmares",
+            "-9.51028",
+            "-35.7933",
+            "g",
+            "METAR SBMO 280500Z 06003KT CAVOK 21\/21 Q1017=\n\nTAF SBMO 272030Z 2800\/2824 07010KT 9999 SCT020 TN21\/2809Z TX28\/2816Z \nBECMG 2804\/2806 04007KT 8000 SCT015 \nTEMPO 2806\/2810 35007KT SCT012 BKN015 \nBECMG 2810\/2812 10010KT 9999 SCT020 \nBECMG 2813\/2815 10015KT BKN025 \nBECMG 2816\/2818 SCT025 \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 07010KT SCT020 RMK PGS="
+        ],
+        [
+            "SBLE",
+            "Aeroporto Hor\u00e1cio de Mattos",
+            "-12.4833",
+            "-41.2731",
+            "g",
+            "METAR SBLE 280500Z AUTO VRB02KT 9999 FEW002 BKN025 OVC029 19\/19 Q1019=\n\nTAF SBLE 271600Z 2718\/2806 12005KT 9999 FEW030 TX30\/2718Z TN17\/2805Z \nBECMG 2718\/2720 09008KT CAVOK \nBECMG 2722\/2724 11005KT RMK PGQ="
+        ],
+        [
+            "SBKG",
+            "Aeroporto de Campina Grande\/Aeroporto Presidente Jo\u00e3o Suassuna",
+            "-7.26998",
+            "-35.8972",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBKG\n\nTAF SBKG 272030Z 2800\/2812 13010KT 9999 SCT020 TN20\/2810Z TX24\/2812Z \nBECMG 2804\/2806 8000 SCT012 \nBECMG 2807\/2809 SCT007 \nBECMG 2810\/2812 9999 SCT012 BKN020 RMK PGS="
+        ],
+        [
+            "SBJU",
+            "Aeroporto de Juazeiro do Norte\/Orlando Bezerra de Menezes",
+            "-7.21833",
+            "-39.2717",
+            "g",
+            "METAR SBJU 280500Z 10005KT 9999 FEW020 25\/15 Q1017=\n\nTAF SBJU 272030Z 2800\/2812 17010KT 9999 FEW020 TN22\/2809Z TX26\/2812Z \nBECMG 2804\/2806 SCT020 \nBECMG 2806\/2808 14007KT CAVOK \nBECMG 2810\/2812 SCT020 RMK PGS="
+        ],
+        [
+            "SBTB",
+            "Aeroporto de Trombetas \/ Porto Trombetas",
+            "-1.48944",
+            "-56.3967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTB\n\nTAF SBTB 271557Z 2718\/2806 10007KT 9999 SCT020 FEW025TCU TX34\/2718Z TN26\/2806Z \nPROB30 2803\/2806 4000 TSRA SCT020 FEW025CB RMK PHQ="
+        ],
+        [
+            "SBMN",
+            "Aeroporto de Ponta Pelada",
+            "-3.14556",
+            "-59.9861",
+            "g",
+            "METAR SBMN 280500Z 20002KT CAVOK 27\/24 Q1011=\n\nTAF SBMN 272100Z 2800\/2812 08005KT 9999 FEW025TCU TX29\/2800Z TN25\/2809Z \nBECMG 2800\/2802 FEW020 \nBECMG 2809\/2811 SCT015 RMK PDW="
+        ],
+        [
+            "SBIZ",
+            "Aeroporto de Imperatriz \/ Prefeito Renato Moreira",
+            "-5.53111",
+            "-47.46",
+            "g",
+            "METAR SBIZ 280500Z 00000KT CAVOK 26\/21 Q1009=\n\nTAF SBIZ 272119Z 2800\/2812 08007KT CAVOK TN24\/2808Z TX28\/2812Z \nBECMG 2800\/2802 02005KT \nBECMG 2809\/2811 09007KT RMK PHQ="
+        ],
+        [
+            "SBCI",
+            "Aeroporto de Carolina \/ Aeroporto Brigadeiro Lysia",
+            "-7.32028",
+            "-47.4586",
+            "g",
+            "METAR SBCI 280500Z AUTO \/\/\/\/\/KT \/\/\/V\/\/\/ \/\/\/\/ \/\/ \/\/\/\/\/\/\/\/\/ \/\/\/\/\/ Q\/\/\/\/=\n\nTAF SBCI 272119Z 2800\/2812 09007KT 9999 SCT030 TN23\/2808Z TX27\/2812Z \nBECMG 2800\/2802 36003KT \nBECMG 2809\/2811 08005KT RMK PHQ="
+        ],
+        [
+            "SBOI",
+            "Aeroporto de Oiapoque",
+            "3.85528",
+            "-51.7967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBOI\n\nTAF SBOI 272119Z 2800\/2812 12005KT 9999 SCT040 TN25\/2808Z TX29\/2812Z RMK PHQ="
+        ],
+        [
+            "SBMK",
+            "Aeroporto de Monte Claros \/ M\u00e1rio Ribeiro",
+            "-16.7067",
+            "-43.8189",
+            "gw",
+            "METAR SBMK 280400Z 09004KT CAVOK 20\/11 Q1019=\n\nTAF SBMK 272200Z 2800\/2812 00000KT CAVOK TX23\/2800Z TN16\/2807Z \nBECMG 2809\/2811 06005KT RMK PGQ="
+        ],
+        [
+            "SBUA",
+            "Aeroporto Regional de S\u00e3o Gabriel da Cachoeira",
+            "-0.148333",
+            "-66.9856",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBUA\n\nTAF SBUA 272119Z 2800\/2812 VRB03KT 9999 SCT010 TN23\/2809Z TX25\/2812Z \nPROB40 TEMPO 2809\/2812 4000 TSRA BKN010 BKN017 FEW030CB RMK PHQ="
+        ],
+        [
+            "SBTU",
+            "Aeroporto de Tucuru\u00ed",
+            "-3.785",
+            "-49.7194",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTU\n\nTAF n\u00e3o dispon\u00edvel para SBTU"
+        ],
+        [
+            "SBHT",
+            "Aeroporto de Altamira",
+            "-3.25389",
+            "-52.2539",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBHT\n\nTAF SBHT 272119Z 2800\/2812 00000KT 9999 SCT015 TN24\/2810Z TX28\/2812Z \nBECMG 2809\/2811 05005KT RMK PHQ="
+        ],
+        [
+            "SBIP",
+            "Aeroporto Usiminas",
+            "-19.4706",
+            "-42.4875",
+            "g",
+            "METAR SBIP 280500Z AUTO 05002KT 9999 BKN040 \/\/\/\/\/ Q1020=\n\nTAF n\u00e3o dispon\u00edvel para SBIP"
+        ],
+        [
+            "SBCF",
+            "Aeroporto Internacional Tancredo Neves",
+            "-19.6336",
+            "-43.9686",
+            "g",
+            "METAR SBCF 280500Z 09005KT CAVOK 19\/12 Q1021=\n\nTAF SBCF 272200Z 2800\/2824 09005KT CAVOK TN17\/2809Z TX27\/2817Z \nBECMG 2801\/2803 12004KT \nBECMG 2807\/2809 15004KT \nBECMG 2809\/2811 09007KT \nBECMG 2813\/2815 02005KT \nBECMG 2820\/2822 06009KT \nBECMG 2822\/2824 09004KT RMK PGQ="
+        ],
+        [
+            "SBPJ",
+            "Aeroporto de Palmas \u2013 Brigadeiro Lysias Rodrigues",
+            "-10.2953",
+            "-48.3578",
+            "g",
+            "METAR SBPJ 280500Z 18003KT CAVOK 27\/16 Q1011=\n\nTAF SBPJ 272030Z 2800\/2824 10010KT CAVOK TN22\/2809Z TX37\/2818Z \nBECMG 2808\/2810 02007KT \nBECMG 2814\/2816 35007KT FEW030 \nBECMG 2816\/2818 30010KT SCT030 \nBECMG 2820\/2822 12010KT CAVOK RMK PGS="
+        ],
+        [
+            "SBBW",
+            "Aeroporto de Barra do Gar\u00e7as",
+            "-15.8611",
+            "-52.3889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBBW\n\nTAF SBBW 272200Z 2800\/2812 00000KT CAVOK TX29\/2800Z TN22\/2810Z RMK PGG="
+        ],
+        [
+            "SBMA",
+            "Aeroporto Jo\u00e3o Correa da Rocha",
+            "-5.36833",
+            "-49.1378",
+            "g",
+            "METAR SBMA 280500Z 32002KT CAVOK 26\/24 Q1010=\n\nTAF SBMA 272119Z 2800\/2812 34005KT 9999 SCT020 TN24\/2808Z TX29\/2812Z RMK PHQ="
+        ],
+        [
+            "SBBR",
+            "Aeroporto Internacional de Bras\u00edlia \u2014 Presidente Juscelino Kubitschek",
+            "-15.8625",
+            "-47.9125",
+            "g",
+            "METAR SBBR 280500Z 33001KT CAVOK 19\/11 Q1019=\n\nTAF SBBR 272200Z 2800\/2824 00000KT CAVOK TN16\/2810Z TX32\/2819Z \nBECMG 2810\/2812 08007KT RMK PGG="
+        ],
+        [
+            "SBCN",
+            "Aeroporto de Caldas Novas",
+            "-17.7253",
+            "-48.6106",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCN\n\nTAF SBCN 272200Z 2800\/2812 11005KT CAVOK TX28\/2800Z TN21\/2810Z RMK PGG="
+        ],
+        [
+            "SBMY",
+            "Aeroporto de Manicor\u00e9",
+            "-5.81139",
+            "-61.2786",
+            "g",
+            "METAR SBMY 280500Z AUTO 00000KT 7000 NCD 24\/24 Q1010=\n\nTAF SBMY 272119Z 2800\/2812 00000KT 7000 NSC TN23\/2808Z TX27\/2812Z \nBECMG 2809\/2811 03007KT RMK PHQ="
+        ],
+        [
+            "SBIL",
+            "Aeroporto de Ilh\u00e9us \/ Jorge Amado",
+            "-14.8158",
+            "-39.0331",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBIL\n\nTAF SBIL 272200Z 2800\/2812 26005KT 9999 SCT020 TX23\/2800Z TN21\/2807Z \nTEMPO 2809\/2812 BKN015 FEW025TCU RMK PGQ="
+        ],
+        [
+            "SBAN",
+            "Base A\u00e9rea de An\u00e1polis \/ BAAN",
+            "-16.2283",
+            "-48.965",
+            "g",
+            "METAR SBAN 280500Z 13007KT CAVOK 21\/09 Q1020=\n\nTAF SBAN 272100Z 2800\/2812 10010KT CAVOK TN17\/2809Z TX23\/2812Z RMK PDW="
+        ],
+        [
+            "SBBH",
+            "Aeroporto da Pampulha",
+            "-19.8517",
+            "-43.9503",
+            "g",
+            "METAR SBBH 280500Z 00000KT CAVOK 17\/12 Q1021=\n\nTAF SBBH 272200Z 2800\/2812 10005KT CAVOK TX19\/2800Z TN18\/2808Z \nBECMG 2808\/2810 09010KT RMK PGQ="
+        ],
+        [
+            "SBSR",
+            "Aeroporto Estadual Prof. Eribelto Manoel Reino",
+            "-20.8164",
+            "-49.4064",
+            "g",
+            "METAR SBSR 280500Z 18012KT CAVOK 18\/11 Q1019=\n\nTAF SBSR 272200Z 2800\/2812 18008KT CAVOK TX23\/2800Z TN17\/2810Z RMK PGG="
+        ],
+        [
+            "SBPO",
+            "Aeroporto de Pato Branco",
+            "-26.2167",
+            "-52.6867",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPO\n\nTAF n\u00e3o dispon\u00edvel para SBPO"
+        ],
+        [
+            "SBCO",
+            "Base A\u00e9rea de Canoas \/BACO",
+            "-29.9458",
+            "-51.1444",
+            "gw",
+            "METAR SBCO 280300Z 10005KT 9000 NSC 12\/12 Q1024=\n\nTAF SBCO 272100Z 2800\/2812 12005KT CAVOK TN08\/2808Z TX11\/2812Z \nBECMG 2804\/2806 0500 FG BKN001 \nBECMG 2810\/2812 0800 FG BKN002 RMK PDW="
+        ],
+        [
+            "SBMG",
+            "Aeroporto Regional de Maring\u00e1 \/ Silvio Name Junior",
+            "-23.47944444",
+            "-52.0122222",
+            "rw",
+            "METAR SBMG 280200Z 18005KT 0500 FG VV003 14\/14 Q1018=\n\nTAF SBMG 272200Z 2800\/2812 06005KT 4000 RA BR BKN005 TX15\/2800Z TN13\/2810Z \nPROB40 2808\/2812 0200 FG OVC001 RMK PGG="
+        ],
+        [
+            "SBPL",
+            "Aeroporto de Petrolina",
+            "-9.36389",
+            "-40.5639",
+            "g",
+            "METAR SBPL 280500Z 16010KT CAVOK 23\/19 Q1016=\n\nTAF SBPL 272030Z 2800\/2824 17010KT CAVOK TN21\/2809Z TX34\/2818Z \nBECMG 2807\/2809 BKN020 \nBECMG 2810\/2812 17015KT BKN025 \nBECMG 2813\/2815 SCT035 \nBECMG 2816\/2818 FEW040 \nBECMG 2820\/2822 17010KT CAVOK RMK PGS="
+        ],
+        [
+            "SBRJ",
+            "Aeroporto Santos Dumont",
+            "-22.9103",
+            "-43.1631",
+            "gw",
+            "METAR SBRJ 280200Z 17006KT 9999 SCT020 SCT030 BKN070 22\/20 Q1021=\n\nTAF SBRJ 272030Z 2800\/2812 24015KT 8000 BKN020 TN20\/2809Z TX22\/2812Z \nTEMPO 2800\/2803 21015KT 6000 RA SCT012 BKN020 \nBECMG 2804\/2806 17010KT SCT012 BKN020 \nTEMPO 2806\/2812 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBAE",
+            "Aeroporto Internacional Bauru-Arealva \/ Moussa Nak",
+            "-22.1585",
+            "-49.0735",
+            "g",
+            "METAR SBAE 280500Z 17018KT CAVOK 18\/12 Q1020=\n\nTAF SBAE 272000Z 2800\/2812 16015KT CAVOK TX20\/2800Z TN18\/2809Z RMK PGF="
+        ],
+        [
+            "SBAF",
+            "Base A\u00e9rea dos Afonsos \/ BAAF",
+            "-22.875",
+            "-43.3844",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBAF\n\nTAF SBAF 272100Z 2800\/2812 22007KT 9999 SCT020 BKN040 TN18\/2808Z TX20\/2812Z \nPROB40 TEMPO 2806\/2811 5000 BR BKN010 BKN030 RMK PDW="
+        ],
+        [
+            "SBML",
+            "Aeroporto Estadual de Mar\u00edlia - Frank Miloye Milenkovich",
+            "-22.1967",
+            "-49.9264",
+            "gw",
+            "METAR SBML 280300Z 18018KT CAVOK 19\/15 Q1021=\n\nTAF SBML 271400Z 2718\/2806 15015KT 9999 SCT040 TX27\/2718Z TN17\/2805Z RMK PGF="
+        ],
+        [
+            "SBGW",
+            "Aeroporto de Guaratinguet\u00e1 Edu Chaves",
+            "-22.7914",
+            "-45.2047",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBGW\n\nTAF SBGW 271500Z 2718\/2806 26005KT 9999 SCT025 TX29\/2718Z TN20\/2806Z \nBECMG 2720\/2722 12007KT BKN020 RMK PDW="
+        ],
+        [
+            "SBSM",
+            "Aeroporto de Santa Maria ",
+            "-29.7111",
+            "-53.6881",
+            "gw",
+            "METAR SBSM 280300Z 10004KT CAVOK 10\/10 Q1022=\n\nTAF SBSM 272100Z 2800\/2812 11007KT CAVOK TX11\/2800Z TN06\/2808Z \nBECMG 2804\/2806 2000 BR BKN002 \nTEMPO 2806\/2812 0500 FG BKN001 RMK PDW="
+        ],
+        [
+            "SBIH",
+            "Aeroporto de Itaituba",
+            "-4.24222",
+            "-56.0006",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBIH\n\nTAF SBIH 272119Z 2800\/2812 00000KT 9999 FEW015 TN26\/2811Z TX29\/2812Z RMK PHQ="
+        ],
+        [
+            "SBST",
+            "Base A\u00e9rea de Santos \/ BAST",
+            "-23.925",
+            "-46.2875",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBST\n\nTAF SBST 272000Z 2800\/2812 17007KT 8000 BKN010 TX20\/2800Z TN18\/2809Z \nTEMPO 2800\/2808 3000 RA BR BKN004 \nPROB30 2808\/2812 12005KT 1000 DZ BR BKN002 RMK PGF="
+        ],
+        [
+            "SBCY",
+            "Aeroporto Internacional Marechal Rondon",
+            "-15.6528",
+            "-56.1167",
+            "g",
+            "METAR SBCY 280500Z 19005KT CAVOK 25\/15 Q1013=\n\nTAF SBCY 272119Z 2800\/2824 19008KT 7000 NSC TN22\/2809Z TX36\/2818Z \nBECMG 2806\/2808 13007KT 3000 FU \nBECMG 2814\/2816 05010KT 7000 NSW RMK PHQ="
+        ],
+        [
+            "SBRB",
+            "Aeroporto Internacional de Rio Branco - Pl\u00e1cido de Castro",
+            "-9.86889",
+            "-67.8936",
+            "g",
+            "METAR SBRB 280500Z 17003KT 9000 NSC 20\/19 Q1013=\n\nTAF SBRB 272119Z 2800\/2812 08005KT 7000 FEW030 TN20\/2808Z TX22\/2812Z \nBECMG 2806\/2808 13007KT RMK PHQ="
+        ],
+        [
+            "SBJA",
+            "Aeroporto Regional Sul Humberto Ghizzo Bortoluzzi",
+            "-28.675",
+            "-49.0606",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJA\n\nTAF SBJA 271500Z 2718\/2806 11005KT 9999 SCT020 TX18\/2718Z TN15\/2806Z \nBECMG 2800\/2802 5000 BR BKN010 RMK PDW="
+        ],
+        [
+            "SBTT",
+            "Aeroporto Internacional de Tabatinga",
+            "-4.25556",
+            "-69.9356",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTT\n\nTAF SBTT 272119Z 2800\/2824 25003KT 8000 TS SCT020 FEW030CB TN25\/2813Z TX33\/2819Z \nBECMG 2800\/2801 32003KT NSW SCT020 \nBECMG 2804\/2806 SCT010 \nBECMG 2815\/2817 23005KT 3000 TSRA BKN015 FEW030CB \nBECMG 2818\/2820 25003KT 9999 NSW SCT020 RMK PHQ="
+        ],
+        [
+            "SBUL",
+            "Aeroporto de Uberl\u00e2ndia\/Aeroporto Ten. Cel. Av. C\u00e9sar Bombonato",
+            "-18.8828",
+            "-48.2256",
+            "g",
+            "METAR SBUL 280500Z 17006KT 8000 NSC 18\/08 Q1019=\n\nTAF SBUL 272200Z 2800\/2812 05007KT CAVOK TX27\/2800Z TN19\/2810Z RMK PGG="
+        ],
+        [
+            "SBTD",
+            "Aeroporto de Toledo \/ Luiz Dal Canalle Filho",
+            "-24.6853",
+            "-53.6967",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTD\n\nTAF n\u00e3o dispon\u00edvel para SBTD"
+        ],
+        [
+            "SBCH",
+            "Aeroporto de Chapec\u00f3 \/ Serafin Enoss Bertaso",
+            "-27.1342",
+            "-52.6564",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCH\n\nTAF SBCH 272100Z 2800\/2812 10007KT CAVOK TX16\/2800Z TN11\/2808Z RMK PDW="
+        ],
+        [
+            "SBJV",
+            "Aeroporto de Joinville- Lauro Carneiro de Loyola",
+            "-26.2247",
+            "-48.7972",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBJV\n\nTAF SBJV 272100Z 2800\/2812 11005KT 8000 SCT010 BKN020 TN14\/2806Z TX16\/2812Z \nPROB40 TEMPO 2806\/2812 3000 RADZ BR BKN004 OVC008 RMK PDW="
+        ],
+        [
+            "SBSP",
+            "Aeroporto de Congonhas \/ S\u00e3o Paulo",
+            "-23.6267",
+            "-46.6553",
+            "y",
+            "METAR SBSP 280500Z AUTO 13007KT 110V180 9999 \/\/ SCT005\/\/\/ OVC007\/\/\/ 15\/14 Q1023=\n\nTAF SBSP 272000Z 2800\/2812 16010KT 9999 OVC009 TX18\/2800Z TN15\/2809Z \nTEMPO 2800\/2806 3000 DZ BR OVC004 \nPROB40 2807\/2812 3000 RA BR OVC006 RMK PGF="
+        ],
+        [
+            "SBSJ",
+            "Aeroporto de S\u00e3o Jos\u00e9 dos Campos - Professor Urbano Ernesto Stumpf",
+            "-23.2292",
+            "-45.8614",
+            "gw",
+            "METAR SBSJ 280300Z 13006KT 9999 BKN020 16\/15 Q1023=\n\nTAF SBSJ 272000Z 2800\/2812 16007KT 8000 SCT015 TX19\/2800Z TN16\/2809Z \nTEMPO 2800\/2805 7000 RA BKN010 \nPROB30 2809\/2811 10005KT 3000 BR BKN008 RMK PGF="
+        ],
+        [
+            "SBTF",
+            "Aeroporto de Tef\u00e9",
+            "-3.38278",
+            "-64.7239",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTF\n\nTAF SBTF 272119Z 2800\/2812 10005KT CAVOK TN24\/2811Z TX27\/2812Z RMK PHQ="
+        ],
+        [
+            "SBCA",
+            "Aeroporto Municipal de Cascavel - Cel. Adalberto Mendes da Silva",
+            "-25.0003",
+            "-53.5006",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCA\n\nTAF SBCA 271400Z 2718\/2806 14010KT 9999 SCT020 TX19\/2718Z TN14\/2805Z \nPROB30 2718\/2723 21010KT 3000 RA BR BKN004 \nBECMG 2723\/2801 8000 BKN006 RMK PGF="
+        ],
+        [
+            "SBAT",
+            "Aeroporto de Alta Floresta \/ Piloto Oswaldo Marque Dias",
+            "-9.86583",
+            "-56.1061",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBAT\n\nTAF SBAT 272119Z 2800\/2812 12005KT 7000 NSC TN25\/2808Z TX30\/2812Z RMK PHQ="
+        ],
+        [
+            "SBRP",
+            "Aeroporto de Ribeir\u00e3o Preto \/ Dr. Leite Lopes",
+            "-21.1342",
+            "-47.7742",
+            "g",
+            "METAR SBRP 280500Z 12007KT CAVOK 18\/14 Q1018=\n\nTAF SBRP 272200Z 2800\/2812 19004KT 8000 NSC TX25\/2800Z TN18\/2809Z \nBECMG 2802\/2804 16003KT RMK PGQ="
+        ],
+        [
+            "SBGV",
+            "Aeroporto De Governador Valadares",
+            "-18.8953",
+            "-41.9786",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBGV\n\nTAF SBGV 271600Z 2718\/2806 06006KT 9999 SCT035 TX32\/2718Z TN23\/2805Z \nBECMG 2719\/2721 03004KT FEW025 \nBECMG 2721\/2723 05002KT RMK PGQ="
+        ],
+        [
+            "SBLO",
+            "Aeroporto de Londrina \/ Governador Jos\u00e9 Richa",
+            "-23.3336",
+            "-51.13",
+            "r",
+            "METAR SBLO 280500Z 04007KT 4000 BR BKN004 OVC090 15\/15 Q1022=\n\nTAF SBLO 272200Z 2800\/2812 13005KT 5000 RA SCT010 BKN020 TX16\/2800Z TN14\/2810Z \nPROB30 2807\/2812 3000 RA BR BKN005 RMK PGG="
+        ],
+        [
+            "SBVH",
+            "Aeroporto de Vilhena \/ Brigadeiro Camar\u00e3o",
+            "-12.6942",
+            "-60.0981",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBVH\n\nTAF SBVH 272119Z 2800\/2812 15005KT 3000 FU NSC TN20\/2808Z TX22\/2812Z RMK PHQ="
+        ],
+        [
+            "SBCP",
+            "Aeroporto Internacional de Campos dos Goytacazes",
+            "-21.6983",
+            "-41.3017",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCP\n\nTAF SBCP 272030Z 2800\/2812 21010KT 8000 BKN020 TN20\/2810Z TX23\/2812Z \nBECMG 2804\/2806 SCT012 BKN020 \nTEMPO 2806\/2812 17010KT 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBPB",
+            "Aeroporto Prefeito Dr. Jo\u00e3o Silva Filho",
+            "-2.89361",
+            "-41.7319",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPB\n\nTAF SBPB 272030Z 2800\/2812 07020KT CAVOK TN24\/2809Z TX29\/2812Z \nBECMG 2801\/2803 10015KT \nBECMG 2810\/2812 07015KT RMK PGS="
+        ],
+        [
+            "SBTG",
+            "Aeroporto Regional Pl\u00ednio Alarcon",
+            "-20.7539",
+            "-51.6833",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBTG\n\nTAF SBTG 272200Z 2800\/2812 18008KT CAVOK TX25\/2800Z TN16\/2810Z RMK PGG="
+        ],
+        [
+            "SBTA",
+            "Base de Avia\u00e7\u00e3o de Taubat\u00e9 \/ BAvT",
+            "-23.04",
+            "-45.5158",
+            "gw",
+            "METAR SBTA 280300Z 00000KT 9000 SCT023 OVC040 18\/17 Q1023=\n\nTAF SBTA 272000Z 2800\/2812 15005KT 9999 SCT020 TX19\/2800Z TN16\/2809Z \nTEMPO 2800\/2806 22004KT 8000 RA BKN015 \nPROB30 2809\/2812 00000KT 5000 BR RMK PGF="
+        ],
+        [
+            "SBPS",
+            "Aeroporto de Porto Seguro",
+            "-16.4386",
+            "-39.0808",
+            "g",
+            "METAR SBPS 280500Z 10007KT 9999 FEW025 BKN090 23\/20 Q1019=\n\nTAF SBPS 272030Z 2800\/2824 07010KT 9999 SCT020 TN20\/2808Z TX26\/2815Z \nBECMG 2801\/2803 30007KT 8000 SCT015 BKN020 \nBECMG 2810\/2812 10010KT \nBECMG 2813\/2815 9999 SCT020 \nBECMG 2816\/2818 10015KT SCT025 \nTEMPO 2818\/2821 8000 BKN020 FEW025TCU \nBECMG 2822\/2824 10010KT SCT020 RMK PGS="
+        ],
+        [
+            "SBPF",
+            "Aeroporto Lauro Kurtz",
+            "-28.2439",
+            "-52.3264",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPF\n\nTAF SBPF 271500Z 2718\/2806 10010KT CAVOK TX20\/2718Z TN10\/2806Z RMK PDW="
+        ],
+        [
+            "SBSC",
+            "Base A\u00e9rea de Santa Cruz \/ BASC",
+            "-22.9322",
+            "-43.7189",
+            "y",
+            "METAR SBSC 280500Z 21002KT 7000 -RA BKN010 OVC040 19\/18 Q1022=\n\nTAF SBSC 272100Z 2800\/2812 20007KT 9999 SCT015 BKN035 TN18\/2808Z TX20\/2812Z \nPROB40 TEMPO 2806\/2811 5000 BR BKN010 BKN025 RMK PDW="
+        ],
+        [
+            "SBCX",
+            "Aeroporto Regional de Caxias do Sul \/ Hugo Canterg",
+            "-29.1969",
+            "-51.1875",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCX\n\nTAF SBCX 272100Z 2800\/2812 03007KT 5000 BR FEW010 TX11\/2800Z TN06\/2808Z \nPROB40 2806\/2810 2000 BCFG BKN002 \nBECMG 2810\/2812 8000 FEW015 RMK PDW="
+        ],
+        [
+            "SBAU",
+            "Aeroporto de Aracatuba",
+            "-21.1411",
+            "-50.4247",
+            "gw",
+            "METAR COR SBAU 280200Z 14016KT CAVOK 20\/11 Q1019=\n\nTAF SBAU 272200Z 2800\/2812 22010KT CAVOK TX23\/2800Z TN18\/2810Z \nBECMG 2808\/2810 16007KT RMK PGG="
+        ],
+        [
+            "SBZM",
+            "Aeroporto Regional Presidente Itamar Augusto Cautieiro Franco",
+            "-21.5131",
+            "-43.1731",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBZM\n\nTAF SBZM 272200Z 2800\/2812 00000KT CAVOK TX18\/2800Z TN13\/2808Z RMK PGQ="
+        ],
+        [
+            "SAEZ",
+            "Aeroporto Internacional Ministro Pistarini",
+            "-34.8258",
+            "-58.5375",
+            "g",
+            "METAR COR SAEZ 280500Z 07009KT 9999 SCT028 11\/07 Q1021=\n\nTAF SAEZ 272300Z 2800\/2824 07005KT CAVOK TN06\/2810Z TX20\/2818Z="
+        ],
+        [
+            "SBCJ",
+            "Carajas",
+            "-6.11528",
+            "-50.0014",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBCJ\n\nTAF SBCJ 272119Z 2800\/2812 00000KT 9999 SCT010 TN23\/2806Z TX24\/2812Z \nBECMG 2808\/2810 04005KT RMK PHQ="
+        ],
+        [
+            "SBEG",
+            "Aeroporto Internacional de Manaus \/ Eduardo Gomes",
+            "-3.03861",
+            "-60.0497",
+            "g",
+            "METAR SBEG 280500Z 28002KT 9999 VCTS FEW015 FEW025CB BKN100 27\/24 Q1010=\n\nTAF SBEG 272119Z 2800\/2824 30005KT 9999 SCT025 TN25\/2810Z TX35\/2818Z \nBECMG 2800\/2802 04003KT \nTEMPO 2813\/2818 01010KT 4000 TSRA BKN020 FEW030CB \nPROB30 2818\/2821 4000 TSRA BKN020 FEW030CB \nBECMG 2821\/2823 09005KT CAVOK RMK PHQ="
+        ],
+        [
+            "SBES",
+            "Aeroporto Internacional de S\u00e3o Pedro da Aldeia",
+            "-22.8128",
+            "-42.0925",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBES\n\nTAF SBES 272030Z 2800\/2812 24015KT 8000 BKN020 TN20\/2809Z TX22\/2812Z \nTEMPO 2800\/2803 SCT015 BKN020 \nBECMG 2803\/2806 27010KT SCT012 BKN020 \nTEMPO 2806\/2812 5000 RA BR BKN012 RMK PGS="
+        ],
+        [
+            "SBFZ",
+            "Aeroporto Internacional de Fortaleza - Pinto Martins",
+            "-3.77611",
+            "-38.5325",
+            "g",
+            "METAR SBFZ 280500Z 11015KT 9999 SCT020 26\/22 Q1013=\n\nTAF SBFZ 272030Z 2800\/2824 10015KT 9999 SCT020 TN25\/2809Z TX31\/2815Z \nBECMG 2801\/2803 BKN025 \nBECMG 2804\/2806 13015KT \nBECMG 2810\/2812 SCT025 \nBECMG 2813\/2815 10015KT FEW030 \nBECMG 2816\/2818 10020KT \nBECMG 2822\/2824 10015KT SCT020 RMK PGS="
+        ],
+        [
+            "SBSV",
+            "Aeroporto Internacional de Salvador \u2014 Deputado Lu\u00eds Eduardo Magalh\u00e3es",
+            "-12.9108",
+            "-38.3308",
+            "g",
+            "METAR SBSV 280500Z 10010KT 9999 VCSH SCT020 FEW023TCU BKN060 25\/20 Q1017=\n\nTAF SBSV 272200Z 2800\/2824 07007KT 9999 SCT020 TN21\/2807Z TX27\/2816Z \nBECMG 2803\/2805 30002KT \nBECMG 2806\/2808 25002KT \nBECMG 2810\/2812 11010KT \nTEMPO 2812\/2817 VCSH BKN015 FEW023TCU RMK PGQ="
+        ],
+        [
+            "SBLJ",
+            "Aeroporto de Lages",
+            "-27.7819",
+            "-50.2814",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBLJ\n\nTAF SBLJ 271500Z 2718\/2806 08007KT 9999 SCT030 TX18\/2718Z TN11\/2806Z \nBECMG 2722\/2724 5000 BR OVC006 RMK PDW="
+        ],
+        [
+            "SBBI",
+            "Aeroporto de Bacacheri",
+            "-25.405",
+            "-49.2319",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBBI\n\nTAF SBBI 272100Z 2800\/2812 11008KT 6000 BKN004 TN11\/2808Z TX12\/2812Z \nPROB40 TEMPO 2806\/2812 4000 RADZ BR BKN004 OVC006 RMK PDW="
+        ],
+        [
+            "SBPG",
+            "Aeroporto Municipal de Ponta Grossa - Comandante Antonio Amilton Beraldo",
+            "-25.1877",
+            "-50.1444",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBPG\n\nTAF SBPG 271500Z 2718\/2806 09008KT 9999 BKN010 TX15\/2718Z TN12\/2806Z \nPROB40 TEMPO 2722\/2806 5000 RADZ BR BKN005 OVC010 RMK PDW="
+        ],
+        [
+            "SBBV",
+            "Aeroporto Internacional de Boa Vista - Atlas Brasil Cantanhede",
+            "2.84611",
+            "-60.69",
+            "g",
+            "METAR SBBV 280500Z 29003KT 9999 SCT040 FEW045TCU 26\/23 Q1011=\n\nTAF SBBV 272119Z 2800\/2824 10008KT 9999 FEW040 TN23\/2809Z TX34\/2819Z \nTEMPO 2803\/2807 4000 TSRA SCT040 FEW045CB \nBECMG 2815\/2817 SCT030 FEW035TCU \nTEMPO 2818\/2822 4000 TSRA BKN030 FEW040CB \nBECMG 2822\/2824 FEW040 RMK PHQ="
+        ],
+        [
+            "SBVT",
+            "Aeroporto de Vit\u00f3ria - Eurico de Aguiar Salles",
+            "-20.2556",
+            "-40.2889",
+            "g",
+            "METAR SBVT 280500Z 00000KT 9999 FEW020 SCT070 21\/19 Q1021=\n\nTAF SBVT 272030Z 2800\/2824 02010KT 9999 SCT020 TN20\/2808Z TX26\/2816Z \nBECMG 2804\/2806 35010KT \nTEMPO 2806\/2810 32010KT 8000 SCT012 BKN020 \nBECMG 2810\/2812 04015KT SCT025 \nBECMG 2813\/2815 07015KT 8000 SCT020 FEW030TCU \nBECMG 2816\/2818 10015KT \nBECMG 2819\/2821 07010KT \nBECMG 2822\/2824 04010KT RMK PGS="
+        ],
+        [
+            "SBYS",
+            "Academia da For\u00e7a A\u00e9rea",
+            "-21.9853",
+            "-47.3381",
+            "gw",
+            "METAR SBYS 280200Z 20015KT 9000 NSC 19\/15 Q1020=\n\nTAF SBYS 272100Z 2800\/2812 20010KT 9000 NSC TX19\/2800Z TN12\/2808Z \nBECMG 2806\/2808 16005KT 7000 NSC RMK PDW="
+        ],
+        [
+            "SBFN",
+            "Aeroporto de Fernando de Noronha",
+            "-3.8547222",
+            "-32.428333",
+            "g",
+            "METAR SBFN 280500Z AUTO 15014KT 9999 FEW020 25\/22 Q1013=\n\nTAF SBFN 272030Z 2800\/2812 14015KT 8000 SCT016 BKN020 TN25\/2807Z TX27\/2812Z \nTEMPO 2800\/2810 6000 RA SCT012 BKN015 RMK PGS="
+        ],
+        [
+            "SNGI",
+            "Guanambi",
+            "-14.20805556",
+            "-42.74611111",
+            "g",
+            "METAR SNGI 280500Z AUTO 08013KT 9999 -RA NSC 21\/17 Q1018=\n\nTAF n\u00e3o dispon\u00edvel para SNGI"
+        ],
+        [
+            "SBSO",
+            "REGIONAL DE SORRISO ADOLINO BEDIN",
+            "-12.47277778",
+            "-55.66888889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBSO\n\nTAF SBSO 272119Z 2800\/2812 12002KT 6000 FEW025 TN26\/2808Z TX30\/2812Z RMK PHQ="
+        ],
+        [
+            "SNPD",
+            "Patos de Minas ( SNPD )",
+            "-18.67222222",
+            "-46.49138889",
+            "g",
+            "METAR SNPD 280500Z AUTO 10007KT CAVOK 20\/12 Q1020=\n\nTAF n\u00e3o dispon\u00edvel para SNPD"
+        ],
+        [
+            "SWGN",
+            "Aragua\u00edna",
+            "-7.22833333",
+            "-48.24083333",
+            "g",
+            "METAR SWGN 280500Z AUTO 03003KT CAVOK 25\/23 Q1011=\n\nTAF n\u00e3o dispon\u00edvel para SWGN"
+        ],
+        [
+            "SBSI",
+            "PRESIDENTE JO\u00c3O BATISTA FIGUEIREDO",
+            "-11.885",
+            "-55.58611111",
+            "g",
+            "METAR SBSI 280500Z 06006KT CAVOK 26\/18 Q1011=\n\nTAF SBSI 271557Z 2718\/2806 06008KT 8000 SCT040 TX36\/2718Z TN23\/2806Z RMK PHQ="
+        ],
+        [
+            "SDCO",
+            "Sorocaba",
+            "-23.48305556",
+            "-47.48638889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SDCO\n\nTAF SDCO 271400Z 2718\/2806 14010KT 9999 SCT025 TX21\/2718Z TN16\/2805Z \nBECMG 2723\/2801 BKN020 \nPROB30 2803\/2806 6000 RA BKN015 RMK PGF="
+        ],
+        [
+            "SBJH",
+            "SAO PAULO CATARINA AEROPORTO EXECUTIVO",
+            "-23.42694444",
+            "-47.16583333",
+            "g",
+            "METAR SBJH 280500Z 12013KT CAVOK 15\/13 Q1021=\n\nTAF SBJH 271400Z 2718\/2806 14013KT 9999 BKN015 TX18\/2718Z TN15\/2805Z \nTEMPO 2800\/2806 3000 RA BR BKN010 RMK PGF="
+        ],
+        [
+            "SNTF",
+            "Teixeira de Freitas",
+            "-17.52444444",
+            "-39.66833333",
+            "g",
+            "METAR SNTF 280500Z AUTO 07004KT CAVOK 20\/19 Q1019=\n\nTAF SNTF 271600Z 2718\/2806 05010KT 9999 FEW030 TX27\/2718Z TN20\/2805Z \nBECMG 2720\/2722 06002KT CAVOK \nBECMG 2722\/2724 06008KT FEW018 RMK PGQ="
+        ],
+        [
+            "SBEN",
+            "Plataforma Fixa Central de Enchova PCE-1",
+            "-22.70805556",
+            "-40.69305556",
+            "g",
+            "METAR SBEN 280500Z AUTO VRB02KT 9999 NCD 22\/20 Q1021 W23\/S4=\n\nTAF n\u00e3o dispon\u00edvel para SBEN"
+        ],
+        [
+            "SDAM",
+            "Estadual de Campos dos Amarais - Prefeito Francisco Amaral",
+            "-22.85916667",
+            "-47.10805556",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SDAM\n\nTAF SDAM 271400Z 2718\/2806 14015KT 9999 SCT040 TX25\/2718Z TN17\/2805Z RMK PGF="
+        ],
+        [
+            "SSKW",
+            "Cacoal",
+            "-11.49555556",
+            "-61.45083333",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SSKW\n\nTAF n\u00e3o dispon\u00edvel para SSKW"
+        ],
+        [
+            "SBRD",
+            "Maestro Marinho Franco",
+            "-16.58805556",
+            "-54.72166667",
+            "g",
+            "METAR SBRD 280500Z 19008KT CAVOK 23\/14 Q1014=\n\nTAF SBRD 272119Z 2800\/2812 20005KT CAVOK TN21\/2807Z TX27\/2812Z RMK PHQ="
+        ],
+        [
+            "SBVC",
+            "Glauber de Andrade Rocha (SBVC)",
+            "-14.90777778",
+            "-40.91472222",
+            "rw",
+            "SPECI SBVC 280330Z 13010KT 2000 -DZ BKN004 16\/16 Q1022=\n\nTAF SBVC 271600Z 2718\/2806 12012KT 9999 SCT030 TX25\/2718Z TN17\/2805Z RMK PGQ="
+        ],
+        [
+            "SBDB",
+            "Bonito",
+            "-21.2472222",
+            "-56.4525",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SBDB\n\nTAF n\u00e3o dispon\u00edvel para SBDB"
+        ],
+        [
+            "SDIY",
+            "Jo\u00e3o Durval Carneiro",
+            "-12.20055556",
+            "-38.90055556",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SDIY\n\nTAF n\u00e3o dispon\u00edvel para SDIY"
+        ],
+        [
+            "SNBR",
+            "Barreiras",
+            "-12.07916667",
+            "-45.00944444",
+            "g",
+            "METAR SNBR 280500Z AUTO 10005KT CAVOK 23\/09 Q1017=\n\nTAF n\u00e3o dispon\u00edvel para SNBR"
+        ],
+        [
+            "SNDV",
+            "Brigadeiro Ant\u00f4nio Cabral",
+            "-20.18194444",
+            "-44.87",
+            "g",
+            "METAR SNDV 280500Z AUTO 12005KT CAVOK 19\/14 Q1020=\n\nTAF n\u00e3o dispon\u00edvel para SNDV"
+        ],
+        [
+            "SNVB",
+            "Valen\u00e7a",
+            "-13.29638889",
+            "-38.9925",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SNVB\n\nTAF n\u00e3o dispon\u00edvel para SNVB"
+        ],
+        [
+            "SNZR",
+            "Pedro Rabelo de Souza",
+            "-17.24305556",
+            "-46.88138889",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SNZR\n\nTAF n\u00e3o dispon\u00edvel para SNZR"
+        ],
+        [
+            "SSUM",
+            "Orlando de Carvalho",
+            "-23.79916667",
+            "-53.31388889",
+            "y",
+            "METAR SSUM 280500Z AUTO 07007KT 9999 OVC011 15\/14 Q1019=\n\nTAF n\u00e3o dispon\u00edvel para SSUM"
+        ],
+        [
+            "SWEI",
+            "Eurinep\u00e9",
+            "-6.6375",
+            "-69.88305501",
+            "cinza",
+            "METAR n\u00e3o dispon\u00edvel para SWEI\n\nTAF n\u00e3o dispon\u00edvel para SWEI"
+        ],
+        [
+            "SWKO",
+            "Coari",
+            "-4.13388889",
+            "-63.13111111",
+            "g",
+            "METAR SWKO 280500Z AUTO 30003KT 270V330 CAVOK 25\/24 Q1010=\n\nTAF n\u00e3o dispon\u00edvel para SWKO"
+        ],
+        [
+            "SWLC",
+            "Gen. Leite de Castro",
+            "-17.83472222",
+            "-50.95611111",
+            "g",
+            "METAR SWLC 280500Z AUTO 17007KT CAVOK 20\/14 Q1017=\n\nTAF n\u00e3o dispon\u00edvel para SWLC"
+        ],
+        [
+            "SWPI",
+            "Parintins",
+            "-2.66944444",
+            "-56.7711111",
+            "g",
+            "METAR SWPI 280500Z AUTO \/\/\/\/\/KT \/\/\/V\/\/\/ \/\/\/\/ \/\/ \/\/\/\/\/\/\/\/\/ \/\/\/\/\/ Q\/\/\/\/=\n\nTAF n\u00e3o dispon\u00edvel para SWPI"
+        ]
+    ]
+}
